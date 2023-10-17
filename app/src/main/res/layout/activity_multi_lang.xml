@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Üst Çubuk -->
+    <LinearLayout
+        android:id="@+id/topBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="start|center_vertical">
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:src="@drawable/back"
+            android:scaleType="fitXY"
+            android:layout_margin="5dp"
+            android:id="@+id/backbutton"/>
+
+
+
+        <!-- Sol Üstte Seviye -->
+        <TextView
+            android:id="@+id/level"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Multi Kelime"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:layout_marginEnd="8dp"
+            android:layout_weight="1"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="right|center_vertical">
+            <!-- Sağ Üstte Yapılan Soru Sayısı -->
+            <ImageView
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:src="@drawable/baseline_save_24"
+                android:id="@+id/savebtn"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#000"
+        android:layout_marginTop="45dp"
+        />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        >
+
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:id="@+id/quesBack"
+            android:layout_height="wrap_content"
+            android:paddingHorizontal="80dp"
+            android:paddingVertical="50dp"
+            android:background="@drawable/rounded_gray_background"
+            android:orientation="vertical"
+            > <!-- Rounded gray background ekledik -->
+
+            <!-- Orta Bölüm (Metin) -->
+            <TextView
+                android:id="@+id/questionTextView"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true"
+                android:text="Bu bir soru metni."
+                android:textSize="18sp"
+                android:gravity="center"
+                android:layout_below="@+id/topBar"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="10dp"/>
+
+
+        </LinearLayout>
+        <LinearLayout
+            android:id="@+id/buttonLayout2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/questionTextView"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <!-- İlk Düğme -->
+
+
+
+            <!-- İkinci Düğme -->
+
+        </LinearLayout>
+
+        <!-- Alt Bölüm (Düğmeler) -->
+        <LinearLayout
+            android:id="@+id/buttonLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/questionTextView"
+            android:layout_marginTop="32dp"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <!-- İlk Düğme -->
+            <Button
+                android:id="@+id/firstButton"
+                android:layout_width="150dp"
+                android:layout_marginHorizontal="10dp"
+                android:layout_height="wrap_content"
+                android:text="Geri Sar"
+                android:textSize="16sp"
+
+                android:backgroundTint="@color/buttonRenk"
+                />
+
+            <!-- İkinci Düğme -->
+
+            <Button
+                android:id="@+id/secondbutton"
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:text="Düğme 1"
+                android:layout_marginHorizontal="10dp"
+                android:textSize="16sp"
+
+                android:backgroundTint="@color/buttonRenk"
+                />
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Alt Çizgi ve Quiz Bilgileri -->
+    <LinearLayout
+        android:id="@+id/bottomBar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:orientation="vertical">
+
+        <!-- Alt Çizgi -->
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#000"
+            android:layout_marginTop="16dp"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Quiz Bilgileri -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Multi Kelime Quizi"
+            android:textSize="14sp"
+            android:textColor="#666666"
+            android:gravity="center"
+            android:id="@+id/quizinfo"/>
+
+    </LinearLayout>
+
+</RelativeLayout>

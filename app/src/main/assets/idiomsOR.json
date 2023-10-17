@@ -1,0 +1,1730 @@
+[
+  {
+    "İngilizce": "Account for",
+    "Türkçe": "Hesap vermek"
+  },
+  {
+    "İngilizce": "Acknowledge receipt of",
+    "Türkçe": "Alındı bildirimi"
+  },
+  {
+    "İngilizce": "Act for someone",
+    "Türkçe": "Birinin vekili olmak"
+  },
+  {
+    "İngilizce": "Act up",
+    "Türkçe": "Etkilemek"
+  },
+  {
+    "İngilizce": "Allow for",
+    "Türkçe": "Hesaba katmak"
+  },
+  {
+    "İngilizce": "Answer back",
+    "Türkçe": "Ters cevap vermek"
+  },
+  {
+    "İngilizce": "Answer the door",
+    "Türkçe": "Kapıya bakmak"
+  },
+  {
+    "İngilizce": "Answer to",
+    "Türkçe": "Uymak"
+  },
+  {
+    "İngilizce": "Apply for",
+    "Türkçe": "Başvurmak"
+  },
+  {
+    "İngilizce": "Arrive upon",
+    "Türkçe": "Çıkagelmek"
+  },
+  {
+    "İngilizce": "As soon as",
+    "Türkçe": "Hemen, olur olmaz"
+  },
+  {
+    "İngilizce": "As well",
+    "Türkçe": "....da, dahi"
+  },
+  {
+    "İngilizce": "Ask after someone",
+    "Türkçe": "Birini sormak"
+  },
+  {
+    "İngilizce": "Ask for",
+    "Türkçe": "Sormak"
+  },
+  {
+    "İngilizce": "Ask someone in (up, down)",
+    "Türkçe": "Birisini içeri davet etmek"
+  },
+  {
+    "İngilizce": "Ask a price",
+    "Türkçe": "Bir fiyat istemek"
+  },
+  {
+    "İngilizce": "Ask for trouble",
+    "Türkçe": "Bela aramak"
+  },
+  {
+    "İngilizce": "Back down",
+    "Türkçe": "İddiasından vazgeçmek"
+  },
+  {
+    "İngilizce": "Back out",
+    "Türkçe": "Dönmek, geri gitmek"
+  },
+  {
+    "İngilizce": "Back up",
+    "Türkçe": "Lehinde söylemek"
+  },
+  {
+    "İngilizce": "Bale out",
+    "Türkçe": "Paraşütle atlamak"
+  },
+  {
+    "İngilizce": "Bank up",
+    "Türkçe": "Yığmak, yığılmak"
+  },
+  {
+    "İngilizce": "Be up to",
+    "Türkçe": "Bağlı olmak"
+  },
+  {
+    "İngilizce": "Bear oneself well",
+    "Türkçe": "1) Vücudunu dik tutmak 2) Hal ve hareketi iyi olmak"
+  },
+  {
+    "İngilizce": "Beat back, beat off",
+    "Türkçe": "Püskürtmek"
+  },
+  {
+    "İngilizce": "Beat in",
+    "Türkçe": "Kırıp geçmek"
+  },
+  {
+    "İngilizce": "Bell the cat",
+    "Türkçe": "Kimsenin yanaşamadığı tehlikeli bir işi üzerine almak"
+  },
+  {
+    "İngilizce": "Beyond doubt",
+    "Türkçe": "Şüphe götürmez"
+  },
+  {
+    "İngilizce": "Beyond words",
+    "Türkçe": "Tarif edilmez"
+  },
+  {
+    "İngilizce": "Bind over",
+    "Türkçe": "Cezayı ertelemek"
+  },
+  {
+    "İngilizce": "Blow down",
+    "Türkçe": "Devirmek, yere yatırmak"
+  },
+  {
+    "İngilizce": "Blow in",
+    "Türkçe": "Uğramak"
+  },
+  {
+    "İngilizce": "Blow off",
+    "Türkçe": "Rüzgârdan uçmak"
+  },
+  {
+    "İngilizce": "Board out",
+    "Türkçe": "Pansiyona vermek"
+  },
+  {
+    "İngilizce": "Board up",
+    "Türkçe": "Tahta ile kapatmak"
+  },
+  {
+    "İngilizce": "Body and soul",
+    "Türkçe": "Bütün varlığı ile"
+  },
+  {
+    "İngilizce": "Boil over",
+    "Türkçe": "Kaynayıp taşmak"
+  },
+  {
+    "İngilizce": "Boil up",
+    "Türkçe": "Kaynayıp kabarmak"
+  },
+  {
+    "İngilizce": "The boot is on the other leg",
+    "Türkçe": "Durum tam aksi"
+  },
+  {
+    "İngilizce": "Border on",
+    "Türkçe": "Bitişik olmak"
+  },
+  {
+    "İngilizce": "Born tired",
+    "Türkçe": "Doğuştan tembel ve uyuşuk"
+  },
+  {
+    "İngilizce": "Bound away",
+    "Türkçe": "Zıplayarak gitmek"
+  },
+  {
+    "İngilizce": "Bowl along",
+    "Türkçe": "Hızla gitmek"
+  },
+  {
+    "İngilizce": "Bowl out",
+    "Türkçe": "Birini oyun dışı yapmak"
+  },
+  {
+    "İngilizce": "Bowl over",
+    "Türkçe": "Devirmek, düşürmek"
+  },
+  {
+    "İngilizce": "Break down",
+    "Türkçe": "Kırmak, bozmak, kırılmak, bozulmak"
+  },
+  {
+    "İngilizce": "Bring into action",
+    "Türkçe": "Harekete geçirmek"
+  },
+  {
+    "İngilizce": "Bring forth",
+    "Türkçe": "Doğurmak, meydana çıkarmak, mahsul vermek"
+  },
+  {
+    "İngilizce": "Bring on",
+    "Türkçe": "Neden olmak, sahneye koymak"
+  },
+  {
+    "İngilizce": "Bring up",
+    "Türkçe": "ileri sürmek, büyütmek, yaklaştırmak"
+  },
+  {
+    "İngilizce": "Buoy up",
+    "Türkçe": "Ümit vermek, cesaret vermek"
+  },
+  {
+    "İngilizce": "Burn out",
+    "Türkçe": "Tamamen yanmak"
+  },
+  {
+    "İngilizce": "Burst with",
+    "Türkçe": "Kendi kendini yemek"
+  },
+  {
+    "İngilizce": "Buy in",
+    "Türkçe": "Stok etmek"
+  },
+  {
+    "İngilizce": "Buy off",
+    "Türkçe": "Para vererek kurtulmak"
+  },
+  {
+    "İngilizce": "Buy out",
+    "Türkçe": "Hissesini satın almak"
+  },
+  {
+    "İngilizce": "Buzz about",
+    "Türkçe": "Öteye beriye telaşla gidip gelmek"
+  },
+  {
+    "İngilizce": "Call for",
+    "Türkçe": "1) Bir şeyi ya da bir kimseyi çağırmak 2) Alıp götürmek için uğramak 3) Gerektirmek"
+  },
+  {
+    "İngilizce": "Call in",
+    "Türkçe": "1) Uzman birine başvurmak, danışmak 2) Geri istemek"
+  },
+  {
+    "İngilizce": "Call on, call upon",
+    "Türkçe": "1) Uğramak 2) Yardım istemek 3) Soru sormak (sınıfta öğrenciye) 4) Bilgi istemek, konuşmaya davet"
+  },
+  {
+    "İngilizce": "Call out",
+    "Türkçe": "1) Çağırmak 2) Bağırmak 3) Yüksek sesle okumak"
+  },
+  {
+    "İngilizce": "Call up",
+    "Türkçe": "1) Telefon etmek, aramak 2) Anımsamak"
+  },
+  {
+    "İngilizce": "Care for",
+    "Türkçe": "1) Bakmak, ilgilenmek 2) istemek, sevmek 3) Yardım etmek"
+  },
+  {
+    "İngilizce": "Carry on",
+    "Türkçe": "1) Devam etmek, yönetmek, yürütmek 2) Tartışmak"
+  },
+  {
+    "İngilizce": "Carry on with",
+    "Türkçe": "1) Bir işi sürdürmek 2) Flört etmek"
+  },
+  {
+    "İngilizce": "Carry out",
+    "Türkçe": "Yerine getirmek, yapmak"
+  },
+  {
+    "İngilizce": "Catch cold",
+    "Türkçe": "Üşütmek, soğuk almak"
+  },
+  {
+    "İngilizce": "Catch fire",
+    "Türkçe": "Tutuşmak"
+  },
+  {
+    "İngilizce": "Catch on",
+    "Türkçe": "1) Anlamak 2) Rağbet görmek, tutulmak"
+  },
+  {
+    "İngilizce": "Catch out",
+    "Türkçe": "Yakalamak, gafil avlamak"
+  },
+  {
+    "İngilizce": "Catch up (with)",
+    "Türkçe": "1) Koşup yetişmek 2) Kaybedilen zamanı kapamak, yetişmek 3) Kapmak"
+  },
+  {
+    "İngilizce": "Change one’s mind",
+    "Türkçe": "Fikrini değiştirmek"
+  },
+  {
+    "İngilizce": "Charge with",
+    "Türkçe": "Suçlamak"
+  },
+  {
+    "İngilizce": "Check in",
+    "Türkçe": "(bir otel, uçak... v.b.) kaydını yaptırmak"
+  },
+  {
+    "İngilizce": "Check on",
+    "Türkçe": "Soruşturmak, araştırmak"
+  },
+  {
+    "İngilizce": "Check out",
+    "Türkçe": "(Otelden... v.b.) ücretini ödeyip ayrılmak"
+  },
+  {
+    "İngilizce": "Check up",
+    "Türkçe": "Kontrol etmek"
+  },
+  {
+    "İngilizce": "Cheer up",
+    "Türkçe": "Neşelenmek, üzülmemek"
+  },
+  {
+    "İngilizce": "Chop up",
+    "Türkçe": "Parçalara ayırmak, doğramak"
+  },
+  {
+    "İngilizce": "Clean out",
+    "Türkçe": "Boşaltmak, boşaltıp temizlemek"
+  },
+  {
+    "İngilizce": "Clean somebody out",
+    "Türkçe": "Meteliksiz bırakmak, bütün parasını almak"
+  },
+  {
+    "İngilizce": "Clean up",
+    "Türkçe": "1) Temizlemek, düzeltmek 2) Suçlulardan temizlemek"
+  },
+  {
+    "İngilizce": "Clear away",
+    "Türkçe": "1) Ortadan kaldırmak, derleyip toplamak 2) Açılmak"
+  },
+  {
+    "İngilizce": "Clear off",
+    "Türkçe": "1) Çekilip gitmek, terketmek, toz olmak 2) Boşaltmak"
+  },
+  {
+    "İngilizce": "Clear up",
+    "Türkçe": "Açmak (hava)"
+  },
+  {
+    "İngilizce": "Clear something up",
+    "Türkçe": "1) Tertiplemek, düzene koymak, temizlemek 2) Aydınlatmak, çözümlemek"
+  },
+  {
+    "İngilizce": "Climb up",
+    "Türkçe": "Tırmanmak"
+  },
+  {
+    "İngilizce": "Climb down",
+    "Türkçe": "1) Aşağı inmek 2) Fikrini değiştirmek, yelkenleri suya indirmek"
+  },
+  {
+    "İngilizce": "Close down",
+    "Türkçe": "Üretimi durdurmak"
+  },
+  {
+    "İngilizce": "Close in",
+    "Türkçe": "Günlerin kısalması, karanlık basması"
+  },
+  {
+    "İngilizce": "Close in (upon) on",
+    "Türkçe": "1) Kuşatmak 2) Hücum etmek, saldırmak"
+  },
+  {
+    "İngilizce": "Close up",
+    "Türkçe": "Geçici bir süre için kapatmak"
+  },
+  {
+    "İngilizce": "Close upon",
+    "Türkçe": "Yaklaşık olarak, hemen hemen"
+  },
+  {
+    "İngilizce": "Come about",
+    "Türkçe": "Olmak, vuku bulmak"
+  },
+  {
+    "İngilizce": "Come across",
+    "Türkçe": "Rastlamak, karşılaşmak"
+  },
+  {
+    "İngilizce": "Come along",
+    "Türkçe": "1) Çabuk olmak 2) ilerlemek, gelişmek 3) Gelmek, görünmek"
+  },
+  {
+    "İngilizce": "Come along with",
+    "Türkçe": "Beraber gelmek"
+  },
+  {
+    "İngilizce": "Come along in",
+    "Türkçe": "işlerin gidişi, gelişimi"
+  },
+  {
+    "İngilizce": "Come back",
+    "Türkçe": "1) Geri gelmek 2) Hatırlamak"
+  },
+  {
+    "İngilizce": "Come between",
+    "Türkçe": "İki kişinin arasına girmek"
+  },
+  {
+    "İngilizce": "Come by",
+    "Türkçe": "1) Uğramak, gelmek 2) Elde etmek (çaba göstermek)"
+  },
+  {
+    "İngilizce": "Come down",
+    "Türkçe": "1) Çökmek, yıkılmak 2) inmek, düşmek (yağmur, kar, fiyatlar, ısı... v.b.)"
+  },
+  {
+    "İngilizce": "Come down on somebody",
+    "Türkçe": "Eleştirmek, azarlamak"
+  },
+  {
+    "İngilizce": "Come down on somebody",
+    "Türkçe": "Para istemek"
+  },
+  {
+    "İngilizce": "Come down to",
+    "Türkçe": "e kadar gelmek"
+  },
+  {
+    "İngilizce": "Come down to earth",
+    "Türkçe": "Gerçeği anlamak"
+  },
+  {
+    "İngilizce": "Come in useful",
+    "Türkçe": "işe yaramak"
+  },
+  {
+    "İngilizce": "Come near",
+    "Türkçe": "mek üzere olmak, neredeyse"
+  },
+  {
+    "İngilizce": "Come of",
+    "Türkçe": "Sonuç çıkarmak, sonuç almak"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come of age",
+    "Türkçe": "Yasal sorumluluk yaşına erişmek"
+  },
+  {
+    "İngilizce": "Come off",
+    "Türkçe": "1) Ayrılmak, çıkmak, kopmak 2) Meydana gelmek, olmak"
+  },
+  {
+    "İngilizce": "Come off",
+    "Türkçe": "Düşmek, sökülmek"
+  },
+  {
+    "İngilizce": "Come off second best",
+    "Türkçe": "İkinci olmak"
+  },
+  {
+    "İngilizce": "Come off worse",
+    "Türkçe": "Kötü sonuçlanmak, zarar görmek"
+  },
+  {
+    "İngilizce": "Come on",
+    "Türkçe": "1) Başlamak, ilerlemek 2) Yaklaşmak, gelmek 3) Cevap vermek, hızlanmak"
+  },
+  {
+    "İngilizce": "Come out",
+    "Türkçe": "1) Ortaya çıkmak, meydana çıkmak 2) Açıklamak 3) Yayınlamak, piyasaya çıkarmak 4) Açmak"
+  },
+  {
+    "İngilizce": "Come out with",
+    "Türkçe": "Düşünmeden söylemek"
+  },
+  {
+    "İngilizce": "Come over",
+    "Türkçe": "1) Geçmek, uğramak 2) Karşılamak, karşılaşmak 3) Ulaşmak"
+  },
+  {
+    "İngilizce": "Come round",
+    "Türkçe": "Dönmek, kendine gelmek"
+  },
+  {
+    "İngilizce": "Come through",
+    "Türkçe": "Başarmak, atlatmak"
+  },
+  {
+    "İngilizce": "Come to",
+    "Türkçe": "Bilinçlenmek"
+  },
+  {
+    "İngilizce": "Come to a head",
+    "Türkçe": "Büyümek, olgunlaşmak, ciddi boyutlara varmak"
+  },
+  {
+    "İngilizce": "Come to life",
+    "Türkçe": "Hayat bulmak"
+  },
+  {
+    "İngilizce": "Come to terms with",
+    "Türkçe": "Anlaşmak, uzlaşmak"
+  },
+  {
+    "İngilizce": "Come under",
+    "Türkçe": "Uğramak, katlanmak, teslim olmak"
+  },
+  {
+    "İngilizce": "Come up",
+    "Türkçe": "1) Ortaya çıkmak, meydana gelmek 2) Yukarı gelmek, çıkmak 3) Yaklaşmak, gelmek"
+  },
+  {
+    "İngilizce": "Come up to",
+    "Türkçe": "Kafi gelmek"
+  },
+  {
+    "İngilizce": "Come up with",
+    "Türkçe": "Bir çözüm bulmak, yetiştirmek (para vb.)"
+  },
+  {
+    "İngilizce": "Count against",
+    "Türkçe": "Bir kimseye veya bir şeye karşı bir şüphe veya aleyhinde bir görüş ileri sürmek"
+  },
+  {
+    "İngilizce": "Count on",
+    "Türkçe": "Umut bağlamak, güvenmek, saymak"
+  },
+  {
+    "İngilizce": "Count out",
+    "Türkçe": "Dışarıda tutmak, reddetmek, saymamak"
+  },
+  {
+    "İngilizce": "Count up",
+    "Türkçe": "Toplamak, saymak"
+  },
+  {
+    "İngilizce": "Creep in",
+    "Türkçe": "Gizlice sokulmak"
+  },
+  {
+    "İngilizce": "Creep up",
+    "Türkçe": "Ürkekçe yaklaşmak"
+  },
+  {
+    "İngilizce": "Cry for",
+    "Türkçe": "Çok istemek, çok gerekmek"
+  },
+  {
+    "İngilizce": "Cry out",
+    "Türkçe": "Bağırmak, haykırmak"
+  },
+  {
+    "İngilizce": "Cry out against",
+    "Türkçe": "Şiddetle karşı çıkmak, protesto etmek"
+  },
+  {
+    "İngilizce": "Cry out for",
+    "Türkçe": "Bağırmak"
+  },
+  {
+    "İngilizce": "Cry out to",
+    "Türkçe": "Bağırmak, çağırmak"
+  },
+  {
+    "İngilizce": "Cry to",
+    "Türkçe": "Çağrıda bulunmak"
+  },
+  {
+    "İngilizce": "Cut away",
+    "Türkçe": "Bağları kesmek, bir bağ ile bir şeyi bir şeyden ayırmak"
+  },
+  {
+    "İngilizce": "Cut down",
+    "Türkçe": "1) Kesmek, budamak 2) İndirmek 3) Düşürmek, azaltmak 4) Katletmek"
+  },
+  {
+    "İngilizce": "Cut in",
+    "Türkçe": "1) Söze karışmak, lafa girmek 2) Yol kesmek 3) Sıkıştırmak"
+  },
+  {
+    "İngilizce": "Cut in on",
+    "Türkçe": "Söze karışmak"
+  },
+  {
+    "İngilizce": "Cut off",
+    "Türkçe": "Kesmek, kapatmak, koparmak"
+  },
+  {
+    "İngilizce": "Cut on",
+    "Türkçe": "İzlemek, dinlemek"
+  },
+  {
+    "İngilizce": "Cut out",
+    "Türkçe": "1) Kesmek, biçmek, kesip çıkarmak 2) Biçim vermek, şekil vermek 3) Sona ermek, bitmek"
+  },
+  {
+    "İngilizce": "Cut through",
+    "Türkçe": "Kesmek, yolunu kesmek"
+  },
+  {
+    "İngilizce": "Cut up",
+    "Türkçe": "Kesip doğramak"
+  },
+  {
+    "İngilizce": "Cut up rough",
+    "Türkçe": "Kavga etmek, patırtı koparmak"
+  },
+  {
+    "İngilizce": "Cut with",
+    "Türkçe": "Bırakmak"
+  },
+  {
+    "İngilizce": "Dare say",
+    "Türkçe": "Tahmin etmek, varsaymak"
+  },
+  {
+    "İngilizce": "Dash off",
+    "Türkçe": "Hızla yazmak veya çizmek, tükenmek"
+  },
+  {
+    "İngilizce": "Dash out",
+    "Türkçe": "Aniden çıkmak, çırpılmak"
+  },
+  {
+    "İngilizce": "Deal out",
+    "Türkçe": "Dağıtmak, paylaştırmak"
+  },
+  {
+    "İngilizce": "Deal with",
+    "Türkçe": "1) Başa çıkmak, üstesinden gelmek 2) İlgilenmek, ele almak"
+  },
+  {
+    "İngilizce": "Die away",
+    "Türkçe": "Azalmak, yatışmak"
+  },
+  {
+    "İngilizce": "Die out",
+    "Türkçe": "Soyu tükenmek, nesli tükenmek"
+  },
+  {
+    "İngilizce": "Die to",
+    "Türkçe": "Azalmak, sönüp gitmek"
+  },
+  {
+    "İngilizce": "Die with",
+    "Türkçe": "Azalmak, sönüp gitmek"
+  },
+  {
+    "İngilizce": "Do away with",
+    "Türkçe": "Kaldırmak, iptal etmek"
+  },
+  {
+    "İngilizce": "Do out of",
+    "Türkçe": "Hile yaparak bir şeyi ele geçirmek, almak"
+  },
+  {
+    "İngilizce": "Do over",
+    "Türkçe": "1) Üzerini geçmek 2) Yeniden yapmak, elden geçirmek"
+  },
+  {
+    "İngilizce": "Do without",
+    "Türkçe": "Bir şey olmadan yapmak, katlanmak"
+  },
+  {
+    "İngilizce": "Draw in",
+    "Türkçe": "Gece gelmeye başladığını göstermek"
+  },
+  {
+    "İngilizce": "Draw on",
+    "Türkçe": "Yaklaşmak"
+  },
+  {
+    "İngilizce": "Draw out",
+    "Türkçe": "Dolaptan çıkartmak, para çekmek"
+  },
+  {
+    "İngilizce": "Draw to",
+    "Türkçe": "Yaklaşmak"
+  },
+  {
+    "İngilizce": "Draw up",
+    "Türkçe": "Çekmek, yukarı çekmek, sıkıştırmak"
+  },
+  {
+    "İngilizce": "Dress up",
+    "Türkçe": "Giyinmek, süslenmek"
+  },
+  {
+    "İngilizce": "Dress up as",
+    "Türkçe": "Giysiliği olmak, elbise giymek"
+  },
+  {
+    "İngilizce": "Dress up in",
+    "Türkçe": "Kıyafetlenmek, giyinmek"
+  },
+  {
+    "İngilizce": "Drink in",
+    "Türkçe": "Terk etmek, yoldan çekilmek"
+  },
+  {
+    "İngilizce": "Drink to",
+    "Türkçe": "Kadeh kaldırmak, içki içmek"
+  },
+  {
+    "İngilizce": "Drive at",
+    "Türkçe": "1) İşaret etmek 2) Düşünmek"
+  },
+  {
+    "İngilizce": "Drop away",
+    "Türkçe": "Azalmak, gitgide azalmak"
+  },
+  {
+    "İngilizce": "Drop back",
+    "Türkçe": "Geriye düşmek, arkada bırakmak"
+  },
+  {
+    "İngilizce": "Drop behind",
+    "Türkçe": "Arkada kalmak"
+  },
+  {
+    "İngilizce": "Drop down",
+    "Türkçe": "Düşmek, çökmek"
+  },
+  {
+    "İngilizce": "Drop in",
+    "Türkçe": "Uğramak, geçerken uğramak"
+  },
+  {
+    "İngilizce": "Drop off",
+    "Türkçe": "Giderek uykuya dalma"
+  },
+  {
+    "İngilizce": "Drop out",
+    "Türkçe": "1) Ayrılmak, ayrılmış olmak 2) Bırakmak, terk etmek"
+  },
+  {
+    "İngilizce": "Drown out",
+    "Türkçe": "Sesini duyuramamak"
+  },
+  {
+    "İngilizce": "Dry off",
+    "Türkçe": "Kurutmak"
+  },
+  {
+    "İngilizce": "Dry up",
+    "Türkçe": "Kurumak, kurutmak"
+  },
+  {
+    "İngilizce": "Dwell on",
+    "Türkçe": "1) Düşünmek, düşünüp taşınmak 2) Ayrıntılara inmek, ayrıntılarda kalmak"
+  },
+  {
+    "İngilizce": "Eat away",
+    "Türkçe": "Aşındırmak, kemirmek, yavaşça tüketmek"
+  },
+  {
+    "İngilizce": "Eat out",
+    "Türkçe": "Dışarıda yemek yemek"
+  },
+  {
+    "İngilizce": "Edge in on",
+    "Türkçe": "Hakkı olmamasına rağmen bir işe karışmak"
+  },
+  {
+    "İngilizce": "Edge out",
+    "Türkçe": "Dışarı atmak, kenara itmek"
+  },
+  {
+    "İngilizce": "End in",
+    "Türkçe": "Sonuçlanmak, noktalanmak"
+  },
+  {
+    "İngilizce": "End off",
+    "Türkçe": "Son vermek, sona erdirmek"
+  },
+  {
+    "İngilizce": "End up",
+    "Türkçe": "Sonuçlanmak, bir şekilde sona ermek"
+  },
+  {
+    "İngilizce": "Face up to",
+    "Türkçe": "Karşı karşıya olmak"
+  },
+  {
+    "İngilizce": "Fade away",
+    "Türkçe": "Solup gitmek, kaybolmak"
+  },
+  {
+    "İngilizce": "Fade out",
+    "Türkçe": "Gözden kaybolmak, kaybolmak"
+  },
+  {
+    "İngilizce": "Fall apart",
+    "Türkçe": "Dağılmak, parçalanmak"
+  },
+  {
+    "İngilizce": "Fall back",
+    "Türkçe": "Geri çekilmek, geri gitmek"
+  },
+  {
+    "İngilizce": "Fall behind",
+    "Türkçe": "Geriye düşmek, arkada kalmak"
+  },
+  {
+    "İngilizce": "Fall for",
+    "Türkçe": "1) Aşık olmak, tutulmak 2) Aldanmak, inanmak"
+  },
+  {
+    "İngilizce": "Fall in",
+    "Türkçe": "1) Katılmak, uymak 2) Sırayla gitmek 3) İçine düşmek, düşmek"
+  },
+  {
+    "İngilizce": "Fall into",
+    "Türkçe": "Bir duruma düşmek, bir hale gelmek"
+  },
+  {
+    "İngilizce": "Fall on",
+    "Türkçe": "Üzerine atlamak"
+  },
+  {
+    "İngilizce": "Fall out",
+    "Türkçe": "Düşmek, dökülmek"
+  },
+  {
+    "İngilizce": "Fall over",
+    "Türkçe": "Devrilmek, düşmek"
+  },
+  {
+    "İngilizce": "Fall through",
+    "Türkçe": "Suya düşmek, boşa gitmek"
+  },
+  {
+    "İngilizce": "Fall to",
+    "Türkçe": "Başlamak, hemen işe koyulmak"
+  },
+  {
+    "İngilizce": "Fall under",
+    "Türkçe": "Kapsamak, girift içeriye doğru girmek"
+  },
+  {
+    "İngilizce": "Fall upon",
+    "Türkçe": "Üzerine atlamak"
+  },
+  {
+    "İngilizce": "Favor with",
+    "Türkçe": "Hediyelerle veya iyilikle kazanmak"
+  },
+  {
+    "İngilizce": "Fight back",
+    "Türkçe": "1) Karşı koymak, direnmek 2) Geri püskürtmek"
+  },
+  {
+    "İngilizce": "Fight for",
+    "Türkçe": "Mücadele etmek, savaşmak"
+  },
+  {
+    "İngilizce": "Fight off",
+    "Türkçe": "Savuşturmak, defetmek"
+  },
+  {
+    "İngilizce": "Figure on",
+    "Türkçe": "Uzun süreli planlar yapmak"
+  },
+  {
+    "İngilizce": "Figure out",
+    "Türkçe": "Hesaplamak, anlamak"
+  },
+  {
+    "İngilizce": "Fill in",
+    "Türkçe": "1) Doldurmak, doldurmak 2) Bilgi vermek, açıklamak"
+  },
+  {
+    "İngilizce": "Fill out",
+    "Türkçe": "Form doldurmak"
+  },
+  {
+    "İngilizce": "Fill up",
+    "Türkçe": "1) Tamamen dolmak, ağzına kadar dolmak 2) Doldurmak, tamamlamak"
+  },
+  {
+    "İngilizce": "Find out",
+    "Türkçe": "Öğrenmek, bulmak, anlamak"
+  },
+  {
+    "İngilizce": "Find with",
+    "Türkçe": "Bir suçu bir kimseye atmak, suçlamak"
+  },
+  {
+    "İngilizce": "Finger in",
+    "Türkçe": "Parmağını sokmak"
+  },
+  {
+    "İngilizce": "Finger through",
+    "Türkçe": "Karıştırmak"
+  },
+  {
+    "İngilizce": "Firm up",
+    "Türkçe": "Sağlamlaşmak, sıkılaşmak"
+  },
+  {
+    "İngilizce": "Fix up",
+    "Türkçe": "Düzenlemek, ayarlamak"
+  },
+  {
+    "İngilizce": "Flee from",
+    "Türkçe": "Kaçmak"
+  },
+  {
+    "İngilizce": "Flee to",
+    "Türkçe": "Sığınmak"
+  },
+  {
+    "İngilizce": "Flesh out",
+    "Türkçe": "Detay eklemek, daha ayrıntılı hale getirmek"
+  },
+  {
+    "İngilizce": "Flop down",
+    "Türkçe": "Birden bire oturmak"
+  },
+  {
+    "İngilizce": "Flop into",
+    "Türkçe": "Birden bire oturmak"
+  },
+  {
+    "İngilizce": "Flop over",
+    "Türkçe": "Birden bire düşmek"
+  },
+  {
+    "İngilizce": "Fly at",
+    "Türkçe": "Üzerine atlamak, çullanmak"
+  },
+  {
+    "İngilizce": "Fly away",
+    "Türkçe": "Uçup gitmek"
+  },
+  {
+    "İngilizce": "Fly by",
+    "Türkçe": "Hızla geçmek"
+  },
+  {
+    "İngilizce": "Fly down",
+    "Türkçe": "Aşağıya uçmak"
+  },
+  {
+    "İngilizce": "Fly in",
+    "Türkçe": "1) Uçmak, uçarak gelmek 2) Atlayarak gelmek"
+  },
+  {
+    "İngilizce": "Fly into",
+    "Türkçe": "Korkudan çıldırmak, kudurmak"
+  },
+  {
+    "İngilizce": "Fly off",
+    "Türkçe": "Kalkıp gitmek, uçmak"
+  },
+  {
+    "İngilizce": "Fly on",
+    "Türkçe": "Uçmak, hızla gitmek"
+  },
+  {
+    "İngilizce": "Fly out",
+    "Türkçe": "Hızla gitmek"
+  },
+  {
+    "İngilizce": "Fly over",
+    "Türkçe": "1) Uçarak geçmek 2) Üzerinden geçmek"
+  },
+  {
+    "İngilizce": "Fly through",
+    "Türkçe": "Hızla geçmek"
+  },
+  {
+    "İngilizce": "Follow on",
+    "Türkçe": "Hemen arkasından gelmek"
+  },
+  {
+    "İngilizce": "Follow up",
+    "Türkçe": "İzlemek, takip etmek"
+  },
+  {
+    "İngilizce": "Forbid to",
+    "Türkçe": "Yasaklamak, izin vermemek"
+  },
+  {
+    "İngilizce": "Force in",
+    "Türkçe": "Zorla sokmak, zorla girmek"
+  },
+  {
+    "İngilizce": "Force into",
+    "Türkçe": "Zorla sokmak, zorla girmek"
+  },
+  {
+    "İngilizce": "Forfeit to",
+    "Türkçe": "Bir şeyi kaybetmek veya kaybetmeye razı olmak"
+  },
+  {
+    "İngilizce": "Forgive for",
+    "Türkçe": "Bağışlamak"
+  },
+  {
+    "İngilizce": "Forgive to",
+    "Türkçe": "Bağışlamak"
+  },
+  {
+    "İngilizce": "Fork out",
+    "Türkçe": "Parasını ödemek"
+  },
+  {
+    "İngilizce": "Free from",
+    "Türkçe": "Kurtarmak, kurtulmak"
+  },
+  {
+    "İngilizce": "Free of",
+    "Türkçe": "Kurtarmak, kurtulmak"
+  },
+  {
+    "İngilizce": "Frighten away",
+    "Türkçe": "Kaçırmak, ürkütmek"
+  },
+  {
+    "İngilizce": "Frighten off",
+    "Türkçe": "Kaçırmak, ürkütmek"
+  },
+  {
+    "İngilizce": "Frighten up",
+    "Türkçe": "Korkutmak"
+  },
+  {
+    "İngilizce": "Frown on",
+    "Türkçe": "Kaşlarını çatmak, kızgın bakmak"
+  },
+  {
+    "İngilizce": "Frown upon",
+    "Türkçe": "Karşı çıkmak, hoş karşılamamak"
+  },
+  {
+    "İngilizce": "Fry out",
+    "Türkçe": "Yağda kızartmak"
+  },
+  {
+    "İngilizce": "Full of",
+    "Türkçe": "Dolu olmak"
+  },
+  {
+    "İngilizce": "Fully up",
+    "Türkçe": "Tamamen doldurmak"
+  },
+  {
+    "İngilizce": "Gaze at",
+    "Türkçe": "Dik dik bakmak"
+  },
+  {
+    "İngilizce": "Gaze on",
+    "Türkçe": "Dik dik bakmak"
+  },
+  {
+    "İngilizce": "Get across",
+    "Türkçe": "Açıklamak, anlatmak"
+  },
+  {
+    "İngilizce": "Get after",
+    "Türkçe": "Yetişmek, peşinden gitmek"
+  },
+  {
+    "İngilizce": "Get ahead",
+    "Türkçe": "1) İlerlemek, başarılı olmak 2) Geçmek, bir şeyi yakalamak"
+  },
+  {
+    "İngilizce": "Get along",
+    "Türkçe": "Geçinmek, anlaşmak"
+  },
+  {
+    "İngilizce": "Get around",
+    "Türkçe": "1) Dolaşmak, gezinmek 2) İkna etmek"
+  },
+  {
+    "İngilizce": "Get at",
+    "Türkçe": "1) Dokunmak, ulaşmak 2) Anlamaya çalışmak"
+  },
+  {
+    "İngilizce": "Get away",
+    "Türkçe": "Kurtulmak, kaçmak"
+  },
+  {
+    "İngilizce": "Get back",
+    "Türkçe": "Geri almak, geri dönmek"
+  },
+  {
+    "İngilizce": "Get by",
+    "Türkçe": "Geçinmek, idare etmek"
+  },
+  {
+    "İngilizce": "Get down",
+    "Türkçe": "1) Aşağı inmek 2) Düşmek, düşürmek"
+  },
+  {
+    "İngilizce": "Get in",
+    "Türkçe": "1) İçeri girmek 2) Kazanmak, para etmek"
+  },
+  {
+    "İngilizce": "Get into",
+    "Türkçe": "1) İçeri girmek 2) Kazanmak, para etmek"
+  },
+  {
+    "İngilizce": "Get off",
+    "Türkçe": "İnmemek, ayrılmak"
+  },
+  {
+    "İngilizce": "Get on",
+    "Türkçe": "1) Binmek 2) İlerlemek"
+  },
+  {
+    "İngilizce": "Get out",
+    "Türkçe": "1) Dışarı çıkmak 2) Kaçmak"
+  },
+  {
+    "İngilizce": "Get over",
+    "Türkçe": "Üstesinden gelmek, atlatmak"
+  },
+  {
+    "İngilizce": "Get through",
+    "Türkçe": "1) Başarıyla tamamlamak 2) İletmek, ulaştırmak"
+  },
+  {
+    "İngilizce": "Get to",
+    "Türkçe": "Ulaşmak, varmak"
+  },
+  {
+    "İngilizce": "Get together",
+    "Türkçe": "Bir araya gelmek"
+  },
+  {
+    "İngilizce": "Get up",
+    "Türkçe": "Kalkmak, ayağa kalkmak"
+  },
+  {
+    "İngilizce": "Give away",
+    "Türkçe": "1) Hediye etmek 2) İfşa etmek, açıklamak"
+  },
+  {
+    "İngilizce": "Give back",
+    "Türkçe": "Geri vermek"
+  },
+  {
+    "İngilizce": "Give in",
+    "Türkçe": "Teslim olmak, pes etmek"
+  },
+  {
+    "İngilizce": "Give off",
+    "Türkçe": "Yaymak, salmak"
+  },
+  {
+    "İngilizce": "Give out",
+    "Türkçe": "1) Dağıtmak 2) Tükenmek, bitmek"
+  },
+  {
+    "İngilizce": "Give over",
+    "Türkçe": "Bırakmak, vazgeçmek"
+  },
+  {
+    "İngilizce": "Give up",
+    "Türkçe": "1) Vazgeçmek 2) Teslim etmek"
+  },
+  {
+    "İngilizce": "Glance at",
+    "Türkçe": "Göz atmak"
+  },
+  {
+    "İngilizce": "Glance over",
+    "Türkçe": "Göz atmak"
+  },
+  {
+    "İngilizce": "Glare at",
+    "Türkçe": "Dik dik bakmak, öfkeli bakmak"
+  },
+  {
+    "İngilizce": "Glare on",
+    "Türkçe": "Dik dik bakmak, öfkeli bakmak"
+  },
+  {
+    "İngilizce": "Glide by",
+    "Türkçe": "Sessizce geçmek, kayarak geçmek"
+  },
+  {
+    "İngilizce": "Go about",
+    "Türkçe": "1) Yapmaya çalışmak, işe koyulmak 2) Dolaşmak, gezinmek"
+  },
+  {
+    "İngilizce": "Go against",
+    "Türkçe": "Karşı olmak, karşı çıkmak"
+  },
+  {
+    "İngilizce": "Go ahead",
+    "Türkçe": "1) İlerlemek, devam etmek 2) Önce gitmek, öne geçmek"
+  },
+  {
+    "İngilizce": "Go along",
+    "Türkçe": "1) Bir yere gitmek, gitmek 2) Anlamak, kabul etmek"
+  },
+  {
+    "İngilizce": "Go around",
+    "Türkçe": "Dolaşmak, etrafta dolaşmak"
+  },
+  {
+    "İngilizce": "Go away",
+    "Türkçe": "Uzaklaşmak, gitmek"
+  },
+  {
+    "İngilizce": "Go back",
+    "Türkçe": "Geri dönmek, geri gitmek"
+  },
+  {
+    "İngilizce": "Go by",
+    "Türkçe": "1) Geçip gitmek 2) İle ölçülmek, sürekli olarak ilerlemek"
+  },
+  {
+    "İngilizce": "Go down",
+    "Türkçe": "1) Düşmek, inmek 2) Kaybolmak, batmak"
+  },
+  {
+    "İngilizce": "Go for",
+    "Türkçe": "1) Bir şeyi seçmek veya istemek 2) Bir şeyi almaya gitmek 3) Vurmak, saldırmak"
+  },
+  {
+    "İngilizce": "Go in",
+    "Türkçe": "Girmek, içeri girmek"
+  },
+  {
+    "İngilizce": "Go into",
+    "Türkçe": "Girmek, içeri girmek"
+  },
+  {
+    "İngilizce": "Go off",
+    "Türkçe": "1) Patlamak 2) İşe gitmek, yola çıkmak"
+  },
+  {
+    "İngilizce": "Go on",
+    "Türkçe": "Devam etmek, sürdürmek"
+  },
+  {
+    "İngilizce": "Go out",
+    "Türkçe": "Dışarı çıkmak, gezmeye gitmek"
+  },
+  {
+    "İngilizce": "Go over",
+    "Türkçe": "1) İncelemek, gözden geçirmek 2) Üzerinden geçmek, geçmek"
+  },
+  {
+    "İngilizce": "Go through",
+    "Türkçe": "1) Yaşamak, tecrübe etmek 2) İncelemek, gözden geçirmek"
+  },
+  {
+    "İngilizce": "Go to",
+    "Türkçe": "1) Gitmek 2) Hücum etmek"
+  },
+  {
+    "İngilizce": "Go under",
+    "Türkçe": "Batmak, iflas etmek"
+  },
+  {
+    "İngilizce": "Go up",
+    "Türkçe": "Yukarı çıkmak, artmak"
+  },
+  {
+    "İngilizce": "Go with",
+    "Türkçe": "Uygun olmak, uygun düşmek"
+  },
+  {
+    "İngilizce": "Go without",
+    "Türkçe": "Olmadan gitmek, yoksun olmak"
+  },
+  {
+    "İngilizce": "Grasp at",
+    "Türkçe": "Kapmaya çalışmak, sıkıca tutmaya çalışmak"
+  },
+  {
+    "İngilizce": "Grasp for",
+    "Türkçe": "Kapmaya çalışmak, sıkıca tutmaya çalışmak"
+  },
+  {
+    "İngilizce": "Grin at",
+    "Türkçe": "Sırıtmak, dişleriyle gülümsemek"
+  },
+  {
+    "İngilizce": "Grin for",
+    "Türkçe": "Sırıtmak, dişleriyle gülümsemek"
+  },
+  {
+    "İngilizce": "Groan at",
+    "Türkçe": "İç geçirmek, homurdanmak"
+  },
+  {
+    "İngilizce": "Groan for",
+    "Türkçe": "İç geçirmek, homurdanmak"
+  },
+  {
+    "İngilizce": "Grow on",
+    "Türkçe": "Alışkanlık yapmak, hoşa gitmek"
+  },
+  {
+    "İngilizce": "Grow up",
+    "Türkçe": "Büyümek"
+  },
+  {
+    "İngilizce": "Guard against",
+    "Türkçe": "Korunmak, tedbir almak"
+  },
+  {
+    "İngilizce": "Guard from",
+    "Türkçe": "Korunmak, tedbir almak"
+  },
+  {
+    "İngilizce": "Haggle over",
+    "Türkçe": "Pazarlık etmek"
+  },
+  {
+    "İngilizce": "Hang around",
+    "Türkçe": "Takılmak, gezinmek"
+  },
+  {
+    "İngilizce": "Hark back",
+    "Türkçe": "Bir şeye dönmek, geri gitmek"
+  },
+  {
+    "İngilizce": "Hark to",
+    "Türkçe": "Dikkat etmek, kulak vermek"
+  },
+  {
+    "İngilizce": "Head for",
+    "Türkçe": "Yönünü vermek, gitmek"
+  },
+  {
+    "İngilizce": "Heap on",
+    "Türkçe": "Üzerine yığmak"
+  },
+  {
+    "İngilizce": "Hear about",
+    "Türkçe": "Duygusu olmak, duymak"
+  },
+  {
+    "İngilizce": "Hear from",
+    "Türkçe": "Haber almak, duygu olmak"
+  },
+  {
+    "İngilizce": "Hear of",
+    "Türkçe": "Duygusu olmak, haber almak"
+  },
+  {
+    "İngilizce": "Heat up",
+    "Türkçe": "1) Isıtmak 2) Öfkelendirmek"
+  },
+  {
+    "İngilizce": "Help out",
+    "Türkçe": "Yardım etmek, destek olmak"
+  },
+  {
+    "İngilizce": "Hear to",
+    "Türkçe": "Kulağına gitmek, uygun bulmak"
+  },
+  {
+    "İngilizce": "Hold against",
+    "Türkçe": "Bir şeyi bir kimseye karşı kullanmak"
+  },
+  {
+    "İngilizce": "Hold back",
+    "Türkçe": "1) Geri tutmak 2) Engellemek"
+  },
+  {
+    "İngilizce": "Hold down",
+    "Türkçe": "Yerine yapmak, işini sürdürmek"
+  },
+  {
+    "İngilizce": "Hold for",
+    "Türkçe": "Bir şeyin gerçek olduğunu kabul etmek"
+  },
+  {
+    "İngilizce": "Hold of",
+    "Türkçe": "Yakalamak, ele geçirmek"
+  },
+  {
+    "İngilizce": "Hold off",
+    "Türkçe": "Uzak durmak, uzak tutmak"
+  },
+  {
+    "İngilizce": "Hold on",
+    "Türkçe": "1) Sıkı tutmak, elde etmek 2) Beklemek, sabırla devam etmek"
+  },
+  {
+    "İngilizce": "Hold out",
+    "Türkçe": "1) Direnmek, karşı koymak 2) Uzatmak, sunmak"
+  },
+  {
+    "İngilizce": "Hold over",
+    "Türkçe": "Ertelemek"
+  },
+  {
+    "İngilizce": "Hold to",
+    "Türkçe": "1) Tutunmak, sadık kalmak 2) Bağlı olmak"
+  },
+  {
+    "İngilizce": "Hold up",
+    "Türkçe": "1) Geciktirmek 2) Soygun yapmak, gasp etmek"
+  },
+  {
+    "İngilizce": "Hold with",
+    "Türkçe": "Desteklemek, aynı fikirde olmak"
+  },
+  {
+    "İngilizce": "Hurry along",
+    "Türkçe": "Hızlıca gitmek veya yapmak"
+  },
+  {
+    "İngilizce": "Hurry on",
+    "Türkçe": "Hızlıca gitmek veya yapmak"
+  },
+  {
+    "İngilizce": "Hurry up",
+    "Türkçe": "Hızlıca gitmek veya yapmak"
+  },
+  {
+    "İngilizce": "Hush up",
+    "Türkçe": "Susturmak"
+  },
+  {
+    "İngilizce": "Identify with",
+    "Türkçe": "Kimseyi veya bir şeyi benimsemek, kendini onunla özdeşleştirmek"
+  },
+  {
+    "İngilizce": "Impose on",
+    "Türkçe": "Zorla kabul ettirmek, dayatmak"
+  },
+  {
+    "İngilizce": "Impose upon",
+    "Türkçe": "Zorla kabul ettirmek, dayatmak"
+  },
+  {
+    "İngilizce": "Impress on",
+    "Türkçe": "Kabul ettirmek, belli bir düşünceyi veya bilgiyi zihinde kalıcı kılmak"
+  },
+  {
+    "İngilizce": "Impress upon",
+    "Türkçe": "Kabul ettirmek, belli bir düşünceyi veya bilgiyi zihinde kalıcı kılmak"
+  },
+  {
+    "İngilizce": "Inquire about",
+    "Türkçe": "Sormak, bilgi almak"
+  },
+  {
+    "İngilizce": "Insist on",
+    "Türkçe": "Israr etmek, diretmek"
+  },
+  {
+    "İngilizce": "Insist upon",
+    "Türkçe": "Israr etmek, diretmek"
+  },
+  {
+    "İngilizce": "Interfere in",
+    "Türkçe": "Karışmak, müdahale etmek"
+  },
+  {
+    "İngilizce": "Interfere with",
+    "Türkçe": "Karışmak, müdahale etmek"
+  },
+  {
+    "İngilizce": "Interpose in",
+    "Türkçe": "Araya girmek, müdahale etmek"
+  },
+  {
+    "İngilizce": "Interpose into",
+    "Türkçe": "Araya girmek, müdahale etmek"
+  },
+  {
+    "İngilizce": "Invite to",
+    "Türkçe": "Davet etmek"
+  },
+  {
+    "İngilizce": "Join in",
+    "Türkçe": "Katılmak, dahil olmak"
+  },
+  {
+    "İngilizce": "Join up",
+    "Türkçe": "Katılmak, dahil olmak"
+  },
+  {
+    "İngilizce": "Jump at",
+    "Türkçe": "Atlamak, fırlamak"
+  },
+  {
+    "İngilizce": "Jump down",
+    "Türkçe": "Aşağıya atlamak"
+  },
+  {
+    "İngilizce": "Jump for",
+    "Türkçe": "Atlamak, sıçramak"
+  },
+  {
+    "İngilizce": "Jump on",
+    "Türkçe": "Atlamak, binmek"
+  },
+  {
+    "İngilizce": "Jump out",
+    "Türkçe": "Birdenbire fırlamak, dışarı atlamak"
+  },
+  {
+    "İngilizce": "Jump to",
+    "Türkçe": "Atlamak, sıçramak"
+  },
+  {
+    "İngilizce": "Keep back",
+    "Türkçe": "Gizlemek, saklamak"
+  },
+  {
+    "İngilizce": "Keep down",
+    "Türkçe": "1) Düşürmek 2) Bastırmak, kontrol altında tutmak"
+  },
+  {
+    "İngilizce": "Keep from",
+    "Türkçe": "Sakınmak, uzak durmak"
+  },
+  {
+    "İngilizce": "Keep in",
+    "Türkçe": "1) İçinde tutmak 2) Gizlemek, saklamak"
+  },
+  {
+    "İngilizce": "Keep off",
+    "Türkçe": "Uzak durmak, kaçınmak"
+  },
+  {
+    "İngilizce": "Keep on",
+    "Türkçe": "Devam etmek, sürdürmek"
+  },
+  {
+    "İngilizce": "Keep to",
+    "Türkçe": "Uymak, sadık kalmak"
+  },
+  {
+    "İngilizce": "Keep up",
+    "Türkçe": "Devam etmek, sürdürmek"
+  },
+  {
+    "İngilizce": "Kick against",
+    "Türkçe": "Karşı gelmek, başkaldırmak"
+  },
+  {
+    "İngilizce": "Knock about",
+    "Türkçe": "Dövmek, kötü davranmak"
+  },
+  {
+    "İngilizce": "Knock around",
+    "Türkçe": "Dövmek, kötü davranmak"
+  },
+  {
+    "İngilizce": "Knock back",
+    "Türkçe": "Geriye çarpmak"
+  },
+  {
+    "İngilizce": "Knock down",
+    "Türkçe": "1) Yere yıkmak 2) Vurup yere düşürmek"
+  },
+  {
+    "İngilizce": "Knock into",
+    "Türkçe": "Bir şeye çarpmak"
+  },
+  {
+    "İngilizce": "Knock off",
+    "Türkçe": "1) Vurup düşürmek 2) İşten çıkarmak 3) Bitirmek, sonlandırmak"
+  },
+  {
+    "İngilizce": "Knock out",
+    "Türkçe": "1) Nakavt etmek 2) Devirmek, çökertmek"
+  },
+  {
+    "İngilizce": "Laugh at",
+    "Türkçe": "Gülmek, alay etmek"
+  },
+  {
+    "İngilizce": "Laugh off",
+    "Türkçe": "Gülmek, alay etmek"
+  },
+  {
+    "İngilizce": "Laugh out",
+    "Türkçe": "Gülmek, kahkahalar atmak"
+  },
+  {
+    "İngilizce": "Laugh over",
+    "Türkçe": "Gülmek, alay etmek"
+  },
+  {
+    "İngilizce": "Leap at",
+    "Türkçe": "Atlamak, sıçramak"
+  },
+  {
+    "İngilizce": "Leap for",
+    "Türkçe": "Atlamak, sıçramak"
+  },
+  {
+    "İngilizce": "Leap into",
+    "Türkçe": "Atlamak, sıçramak"
+  },
+  {
+    "İngilizce": "Listen for",
+    "Türkçe": "Dinlemek, beklemek"
+  },
+  {
+    "İngilizce": "Listen to",
+    "Türkçe": "Dinlemek, dinlemek"
+  },
+  {
+    "İngilizce": "Look after",
+    "Türkçe": "1) Bakmak, ilgilenmek 2) Peşinden gitmek"
+  },
+  {
+    "İngilizce": "Look at",
+    "Türkçe": "Bakmak, göz atmak"
+  },
+  {
+    "İngilizce": "Look back",
+    "Türkçe": "Geriye bakmak, geçmişi hatırlamak"
+  },
+  {
+    "İngilizce": "Look down",
+    "Türkçe": "Aşağı bakmak, küçümsemek"
+  },
+  {
+    "İngilizce": "Look for",
+    "Türkçe": "Aramak, araştırmak"
+  },
+  {
+    "İngilizce": "Look forward",
+    "Türkçe": "Dört gözle beklemek"
+  },
+  {
+    "İngilizce": "Look in",
+    "Türkçe": "Uğramak, ziyaret etmek"
+  },
+  {
+    "İngilizce": "Look into",
+    "Türkçe": "İncelemek, araştırmak"
+  },
+  {
+    "İngilizce": "Look like",
+    "Türkçe": "Benzemek"
+  },
+  {
+    "İngilizce": "Look on",
+    "Türkçe": "İzlemek, seyretmek"
+  },
+  {
+    "İngilizce": "Look out",
+    "Türkçe": "Dikkat etmek, göz önünde bulundurmak"
+  },
+  {
+    "İngilizce": "Look over",
+    "Türkçe": "Göz atmak, incelemek"
+  },
+  {
+    "İngilizce": "Look through",
+    "Türkçe": "Göz atmak, incelemek"
+  },
+  {
+    "İngilizce": "Look to",
+    "Türkçe": "Umut etmek, güvenmek"
+  },
+  {
+    "İngilizce": "Look up",
+    "Türkçe": "1) Aramak, bulmak 2) İyileşmek, düzelme başlamak 3) Ziyaret etmek"
+  },
+  {
+    "İngilizce": "Make for",
+    "Türkçe": "Gitmek, yönünü vermek"
+  },
+  {
+    "İngilizce": "Make into",
+    "Türkçe": "Dönüştürmek, yapmak"
+  },
+  {
+    "İngilizce": "Make of",
+    "Türkçe": "Değerlendirmek, yorumlamak"
+  },
+  {
+    "İngilizce": "Make out",
+    "Türkçe": "1) Anlamak, çözmek 2) İlerlemek, başarıya ulaşmak 3) Uydurmak, iddia etmek"
+  },
+  {
+    "İngilizce": "Make over",
+    "Türkçe": "Devretmek, el değiştirmek"
+  },
+  {
+    "İngilizce": "Make up",
+    "Türkçe": "1) Oluşturmak, yapmak 2) Telafi etmek, telafi etmek 3) Makyaj yapmak"
+  },
+  {
+    "İngilizce": "Mark off",
+    "Türkçe": "İşaretleme yapmak, işaretlemek"
+  },
+  {
+    "İngilizce": "Mark out",
+    "Türkçe": "İşaretleme yapmak, işaretlemek"
+  },
+  {
+    "İngilizce": "Mark up",
+    "Türkçe": "Ürün fiyatını artırmak"
+  },
+  {
+    "İngilizce": "Match up",
+    "Türkçe": "Eşleştirmek, uygun olmak"
+  }
+]

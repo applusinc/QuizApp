@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center"
+
+    android:layout_margin="16dp">
+
+    <!-- Başlık -->
+    <TextView
+        android:id="@+id/dialogTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Başlık Olarak 1. Leveli Geçtiniz"
+        android:textSize="20sp"
+        android:textColor="@android:color/black"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"/>
+
+    <!-- İlk Metin -->
+    <TextView
+        android:id="@+id/dialogText1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bu birinci metin alanıdır."
+        android:textSize="16sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/dialogTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"/>
+
+    <!-- İkinci Metin -->
+    <TextView
+        android:id="@+id/dialogText2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textSize="1sp"
+        android:textColor="@android:color/black"
+        android:layout_below="@+id/dialogText1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="8dp"/>
+
+    <!-- Altta İki Düğme -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/dialogText2"
+        android:layout_marginTop="16dp"
+        android:orientation="horizontal">
+
+        <!-- Sol Düğme (Ana Menü) -->
+
+
+        <!-- Sağ Düğme (2. Level) -->
+        <Button
+            android:id="@+id/btnLevel2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="2. Level"
+            android:textSize="16sp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="@color/successBtn"
+            />
+    </LinearLayout>
+
+</RelativeLayout>

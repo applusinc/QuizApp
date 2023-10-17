@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Gündüz modu için tema -->
+    <style name="Theme.QuizAppDemo" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Gündüz moduna özgü özellikler burada ayarlanabilir -->
+        <item name="android:colorPrimary">@color/colorPrimary</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="android:colorAccent">@color/colorAccent</item>
+        <item name="android:colorControlHighlight">@color/colorControlHighlight</item>
+        <item name="android:colorControlNormal">@color/colorControlNormal</item>
+
+    </style>
+    <style name="Button.White" parent="ThemeOverlay.AppCompat">
+        <item name="colorAccent">@color/colorControlNormal</item>
+    </style>
+
+</resources>

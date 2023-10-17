@@ -1,0 +1,1433 @@
+[
+  {
+    "Türkçe": "Kitap harika",
+    "İngilizce": "The book is wonderful",
+    "Almanca": "Das Buch ist wunderbar",
+    "Fransızca": "Le livre est merveilleux",
+    "İspanyolca": "El libro es maravilloso"
+  },
+  {
+    "Türkçe": "Kitap okuyorum",
+    "İngilizce": "I read books",
+    "Almanca": "Ich lese Bücher",
+    "Fransızca": "Je lis des livres",
+    "İspanyolca": "Leo libros"
+  },
+  {
+    "Türkçe": "Bir kitap okudum",
+    "İngilizce": "I read a book",
+    "Almanca": "Ich lese Buch",
+    "Fransızca": "Je lis un livre",
+    "İspanyolca": "Leo un libro"
+  },
+  {
+    "Türkçe": "Kitapları severim",
+    "İngilizce": "I love books",
+    "Almanca": "Ich liebe Bücher",
+    "Fransızca": "J'aime les livres ",
+    "İspanyolca": "me encantan los libros "
+  },
+  {
+    "Türkçe": "Kitap okurdum",
+    "İngilizce": "I would read book",
+    "Almanca": "Ich würde Buch lesen",
+    "Fransızca": "Je lirais un livre",
+    "İspanyolca": "Leería un libro"
+  },
+  {
+    "Türkçe": "Kitap okumuştum",
+    "İngilizce": "I had read book",
+    "Almanca": "I had read book",
+    "Fransızca": "Ich hatte Buch gelesen",
+    "İspanyolca": "J'avais lu un livre"
+  },
+  {
+    "Türkçe": "Kitap okumak istiyordum",
+    "İngilizce": "I wanted to read a book",
+    "Almanca": "Ich wollte ein Buch lesen",
+    "Fransızca": "Je voulais lire un livre",
+    "İspanyolca": "Quería leer un libro."
+  },
+  {
+    "Türkçe": "Büyük bir kitap",
+    "İngilizce": "It's a big book",
+    "Almanca": "Es ist ein dickes Buch",
+    "Fransızca": "C'est un gros livre",
+    "İspanyolca": "Es un libro grande"
+  },
+  {
+    "Türkçe": "İlginç bir kitap",
+    "İngilizce": "It's an interesting book",
+    "Almanca": "Es ist ein interessantes Buch",
+    "Fransızca": "C'est un livre intéressant",
+    "İspanyolca": "Es un libro interesante"
+  },
+  {
+    "Türkçe": "Güzel kalın yepyeni bir kitap",
+    "İngilizce": "A nice thick brand new book",
+    "Almanca": "Ein schönes dickes brandneues Buch",
+    "Fransızca": "Un joli livre épais tout neuf",
+    "İspanyolca": "Un libro nuevo, bonito y grueso"
+  },
+  {
+    "Türkçe": "Kitap okuyacağım",
+    "İngilizce": "I will read book",
+    "Almanca": "Ich werde Buch lesen",
+    "Fransızca": "Je vais lire un livre",
+    "İspanyolca": "Leeré el libro"
+  },
+  {
+    "Türkçe": "Kitabı gayet iyi anlayabiliyorum",
+    "İngilizce": "I can understand the book well",
+    "Almanca": "I can understand the book well",
+    "Fransızca": "Ich kann das Buch gut verstehen",
+    "İspanyolca": "Je peux bien comprendre le livre"
+  },
+  {
+    "Türkçe": "Kitabı okurken neredeyse uykuya dalacaktım",
+    "İngilizce": "I almost fell asleep while reading the book",
+    "Almanca": "Ich bin beim Lesen des Buches fast eingeschlafen",
+    "Fransızca": "J'ai failli m'endormir en lisant le livre",
+    "İspanyolca": "Casi me quedo dormido mientras leía el libro. "
+  },
+  {
+    "Türkçe": "Kitap çok güzel",
+    "İngilizce": "The book is so beautiful",
+    "Almanca": "Das Buch ist so schön",
+    "Fransızca": "Le livre est tellement beau",
+    "İspanyolca": "El libro es tan hermoso"
+  },
+  {
+    "Türkçe": "Bu çok güzel bir kitap",
+    "İngilizce": "This is such a beautiful book",
+    "Almanca": "Das ist so ein schönes Buch",
+    "Fransızca": "C'est un si beau livre",
+    "İspanyolca": "Este es un libro tan hermoso"
+  },
+  {
+    "Türkçe": "Kitap kimseyi sıkmayacak kadar akıcı",
+    "İngilizce": "The book is too fluid to bore anyone",
+    "Almanca": "Das Buch ist zu flüssig, um jemanden zu langweilen",
+    "Fransızca": "Le livre est trop fluide pour ennuyer qui que ce soit",
+    "İspanyolca": "El libro es demasiado fluido para aburrir a nadie"
+  },
+  {
+    "Türkçe": "Kitap oldukça akıcı",
+    "İngilizce": "The book is pretty fluid",
+    "Almanca": "Das Buch ist ziemlich flüssig",
+    "Fransızca": "Le livre est assez fluide",
+    "İspanyolca": "El libro es bastante fluido"
+  },
+  {
+    "Türkçe": "Kitap oldukça kalın",
+    "İngilizce": "The book is quite thick",
+    "Almanca": "Das Buch ist ziemlich dick",
+    "Fransızca": "Le livre est assez épais",
+    "İspanyolca": "El libro es bastante grueso"
+  },
+  {
+    "Türkçe": "Kitap okunabilecek kadar akıcı",
+    "İngilizce": "The book is fluid enough to read",
+    "Almanca": "Das Buch ist flüssig genug, um es zu lesen",
+    "Fransızca": "Le livre est suffisamment fluide à lire",
+    "İspanyolca": "El libro es lo suficientemente fluido para leer"
+  },
+  {
+    "Türkçe": "Kitap oldukça iyi",
+    "İngilizce": "The book is quite good",
+    "Almanca": "Das Buch ist ganz gut",
+    "Fransızca": "Le livre est plutôt bon",
+    "İspanyolca": "El libro es bastante bueno"
+  },
+  {
+    "Türkçe": "Benim kitabım senin kitabından daha güzel",
+    "İngilizce": "My book is more beautiful than your book",
+    "Almanca": "Mein Buch ist schöner als dein Buch",
+    "Fransızca": "Mon livre est plus beau que votre livre",
+    "İspanyolca": "Mi libro es más hermoso que el tuyo"
+  },
+  {
+    "Türkçe": "Kitap giderek daha heyecanlı hale geliyor",
+    "İngilizce": "The book keeps getting more exciting",
+    "Almanca": "Das Buch wird immer spannender",
+    "Fransızca": "Le livre devient de plus en plus passionnant",
+    "İspanyolca": "El libro se vuelve cada vez más emocionante"
+  },
+  {
+    "Türkçe": "Benden daha hızlı okuyor",
+    "İngilizce": "She reads faster than me",
+    "Almanca": "Sie liest schneller als ich",
+    "Fransızca": "Elle lit plus vite que moi",
+    "İspanyolca": "Ella lee más rápido que yo"
+  },
+  {
+    "Türkçe": "Kitap okumak en iyisidir",
+    "İngilizce": "Reading books is the best",
+    "Almanca": "Bücher lesen ist das Beste",
+    "Fransızca": "Lire des livres est ce qu’il y a de mieux",
+    "İspanyolca": "Leer libros es lo mejor"
+  },
+  {
+    "Türkçe": "Benim kadar iyi okuyamıyor",
+    "İngilizce": "He can't read as well as me",
+    "Almanca": "Er kann nicht so gut lesen wie ich",
+    "Fransızca": "Il ne sait pas lire aussi bien que moi",
+    "İspanyolca": "Él no puede leer tan bien como yo"
+  },
+  {
+    "Türkçe": "Kitabı en kısa zamanda okumalıyız",
+    "İngilizce": "We should read the book as soon as possible",
+    "Almanca": "Wir sollten das Buch so schnell wie möglich lesen",
+    "Fransızca": "Nous devrions lire le livre le plus tôt possible",
+    "İspanyolca": "Deberíamos leer el libro lo antes posible"
+  },
+  {
+    "Türkçe": "Bir kitap okur",
+    "İngilizce": "He reads a book",
+    "Almanca": "Er liest ein Buch",
+    "Fransızca": "Il lit un livre",
+    "İspanyolca": "El Lee un libro"
+  },
+  {
+    "Türkçe": "Kitap okumalıyım",
+    "İngilizce": "I should read book",
+    "Almanca": "Ich sollte Buch lesen",
+    "Fransızca": "Je devrais lire un livre",
+    "İspanyolca": "Debería leer el libro"
+  },
+  {
+    "Türkçe": "Okumam gereken bir kitap var",
+    "İngilizce": "I have a book to read",
+    "Almanca": "Ich muss ein Buch lesen",
+    "Fransızca": "J'ai un livre à lire",
+    "İspanyolca": "Tengo un libro para leer"
+  },
+  {
+    "Türkçe": "Kitap okuyabilirim",
+    "İngilizce": "I can read book",
+    "Almanca": "Ich möchte ein Buch lesen",
+    "Fransızca": "je veux lire un livre",
+    "İspanyolca": "quiero leer un libro"
+  },
+  {
+    "Türkçe": "Kitap okuyabiliyordum",
+    "İngilizce": "I could read book",
+    "Almanca": "Ich konnte Buch lesen",
+    "Fransızca": "Je pourrais lire un livre",
+    "İspanyolca": "Podría leer el libro"
+  },
+  {
+    "Türkçe": "Kitap okuyacağım",
+    "İngilizce": "I will read a book",
+    "Almanca": "Ich werde ein Buch lesen",
+    "Fransızca": "Je vais lire un livre",
+    "İspanyolca": "Leeré un libro"
+  },
+  {
+    "Türkçe": "Kitabı okumuş olacağım",
+    "İngilizce": "I will have read the book",
+    "Almanca": "Ich werde Buch gelesen haben",
+    "Fransızca": "J'aurai lu le livre",
+    "İspanyolca": "Habré leído el libro"
+  },
+  {
+    "Türkçe": "Kitap okudum",
+    "İngilizce": "I have read book",
+    "Almanca": "Ich habe Buch gelesen",
+    "Fransızca": "J'ai lu un livre",
+    "İspanyolca": "He leído el libro"
+  },
+  {
+    "Türkçe": "Kitap okumuştum",
+    "İngilizce": "I had read book",
+    "Almanca": "Ich hatte Buch gelesen",
+    "Fransızca": "J'avais lu un livre",
+    "İspanyolca": "Había leído el libro"
+  },
+  {
+    "Türkçe": "Bu bir kitap",
+    "İngilizce": "This is a book",
+    "Almanca": "Das ist ein Buch",
+    "Fransızca": "Ceci est un livre",
+    "İspanyolca": "Este es un libro"
+  },
+  {
+    "Türkçe": "Kendi kitabını oku",
+    "İngilizce": "Read your own book",
+    "Almanca": "Lesen Sie Ihr eigenes Buch",
+    "Fransızca": "Lisez votre propre livre",
+    "İspanyolca": "Lee tu propio libro"
+  },
+  {
+    "Türkçe": "O benim kitabım",
+    "İngilizce": "That is my book",
+    "Almanca": "Das ist mein Buch",
+    "Fransızca": "C'est mon livre",
+    "İspanyolca": "Éste es mi libro"
+  },
+  {
+    "Türkçe": "Birbirlerinin kitaplarını okuyorlar",
+    "İngilizce": "They read each other's books",
+    "Almanca": "Sie lesen die Bücher des anderen",
+    "Fransızca": "Ils se lisent les livres les uns des autres",
+    "İspanyolca": "Leen los libros del otro"
+  },
+  {
+    "Türkçe": "bu onun kitabı mı ?",
+    "İngilizce": "Is this his book",
+    "Almanca": "Ist das sein Buch?",
+    "Fransızca": "est-ce son livre",
+    "İspanyolca": "¿Es este su libro?"
+  },
+  {
+    "Türkçe": "Bu bir kitap mı?",
+    "İngilizce": "Is this a book",
+    "Almanca": "Ist das ein Buch?",
+    "Fransızca": "Ist das ein Buch?",
+    "İspanyolca": "¿Es este un libro?"
+  },
+  {
+    "Türkçe": "Bu kitabın adı ne?",
+    "İngilizce": "What is this book called",
+    "Almanca": "Wie heißt das Buch?",
+    "Fransızca": "Comment s'appelle ce livre ?",
+    "İspanyolca": "Cómo se llama este libro?"
+  },
+  {
+    "Türkçe": "Kitap nerede?",
+    "İngilizce": "Where is book?",
+    "Almanca": "Wo ist Buch?",
+    "Fransızca": "où est le livre",
+    "İspanyolca": "Donde esta el libro"
+  },
+  {
+    "Türkçe": "Kitabı ne zaman okuyorsunuz?",
+    "İngilizce": "When are you reading the book",
+    "Almanca": "Wann liest du das Buch?",
+    "Fransızca": "Quand lis-tu le livre?",
+    "İspanyolca": "¿Cuándo estás leyendo el libro?"
+  },
+  {
+    "Türkçe": "Kim kitap okumak için okudu?",
+    "İngilizce": "Who read to book",
+    "Almanca": "Wer hat gelesen, um zu buchen?",
+    "Fransızca": "Qui lit pour réserver ?",
+    "İspanyolca": "¿Quién lee para reservar?"
+  },
+  {
+    "Türkçe": "Bu kimin kitabı?",
+    "İngilizce": "Whose book is this",
+    "Almanca": "¿Quién lee para reservar?",
+    "Fransızca": "À qui est ce livre?",
+    "İspanyolca": "¿De quién es este libro?"
+  },
+  {
+    "Türkçe": "Hangi kitabı okudun?",
+    "İngilizce": "What book did you read",
+    "Almanca": "Welches Buch hast du gelesen? ",
+    "Fransızca": "quel livre as-tu lu ",
+    "İspanyolca": "¿Qué libro leíste?"
+  },
+  {
+    "Türkçe": "Bu kitabı nasıl okudunuz?",
+    "İngilizce": "How did you read this book",
+    "Almanca": "Wie haben Sie dieses Buch gelesen? ",
+    "Fransızca": "Comment avez-vous lu ce livre ? ",
+    "İspanyolca": "¿Cómo leíste este libro? "
+  },
+  {
+    "Türkçe": "Bana bir kitap ver",
+    "İngilizce": "Give me a book",
+    "Almanca": "Gib mir ein Buch ",
+    "Fransızca": "donne-moi un livre ",
+    "İspanyolca": "Dame un libro"
+  },
+  {
+    "Türkçe": "Kitabı bana ver",
+    "İngilizce": "Give me the book",
+    "Almanca": "Gib mir das Buch",
+    "Fransızca": "Donne-moi le livre",
+    "İspanyolca": "Dame el libro"
+  },
+  {
+    "Türkçe": "Sana kitabımı ödünç verebilirim",
+    "İngilizce": "I can lend you my book",
+    "Almanca": "Ich kann dir mein Buch leihen",
+    "Fransızca": "Je peux vous prêter mon livre",
+    "İspanyolca": "Puedo prestarte mi libro"
+  },
+  {
+    "Türkçe": "Sana kitabı ödünç verebilirim",
+    "İngilizce": "I can lend you the book",
+    "Almanca": "Ich kann dir das Buch leihen",
+    "Fransızca": "Je peux vous prêter le livre",
+    "İspanyolca": "Puedo prestarte el libro"
+  },
+  {
+    "Türkçe": "Ben kitap okumayı severim",
+    "İngilizce": "I like reading books",
+    "Almanca": "Ich lese gern Bücher",
+    "Fransızca": "J'aime lire des livres",
+    "İspanyolca": "Me gusta leer libros"
+  },
+  {
+    "Türkçe": "Her gün okurum",
+    "İngilizce": "I read every day",
+    "Almanca": "Ich lese jeden Tag",
+    "Fransızca": "Ich lese jeden Tag",
+    "İspanyolca": "Leo todo los dias"
+  },
+  {
+    "Türkçe": "Kütüphanede okunacak kitaplar var",
+    "İngilizce": "There are books to read in the library",
+    "Almanca": "In der Bibliothek gibt es Bücher zu lesen",
+    "Fransızca": "Il y a des livres à lire dans la bibliothèque",
+    "İspanyolca": "Hay libros para leer en la biblioteca"
+  },
+  {
+    "Türkçe": "Kitabım var",
+    "İngilizce": "I have a book",
+    "Almanca": "Ich habe ein Buch",
+    "Fransızca": "J'ai un livre",
+    "İspanyolca": "Tengo un libro"
+  },
+  {
+    "Türkçe": "Ona kitap okumasını sağladım",
+    "İngilizce": "I got her to read a book",
+    "Almanca": "Ich habe sie dazu gebracht, ein Buch zu lesen",
+    "Fransızca": "Je lui ai fait lire un livre",
+    "İspanyolca": "Le pedí que leyera un libro"
+  },
+  {
+    "Türkçe": "Bu kitabı ilk okuduğumda çok yeniydi",
+    "İngilizce": "When I first read this book it was so new",
+    "Almanca": "Als ich dieses Buch zum ersten Mal gelesen habe, war es so neu",
+    "Fransızca": "Quand j'ai lu ce livre pour la première fois, il était tellement nouveau",
+    "İspanyolca": "Cuando leí este libro por primera vez, era muy nuevo"
+  },
+  {
+    "Türkçe": "Dışarı çıktığında kitap okuyordum",
+    "İngilizce": "I was reading a book when she went out",
+    "Almanca": "Ich las ein Buch, als sie ausging",
+    "Fransızca": "Je lisais un livre quand elle est sortie",
+    "İspanyolca": "Estaba leyendo un libro cuando ella salió"
+  },
+  {
+    "Türkçe": "Ben kitap okurken dışarı çıktı",
+    "İngilizce": "She went out while I was reading a book",
+    "Almanca": "Während ich ein Buch las, ging sie aus",
+    "Fransızca": "Elle est sortie pendant que je lisais un livre",
+    "İspanyolca": "Ella salió mientras yo estaba leyendo un libro"
+  },
+  {
+    "Türkçe": "Sen yokken ben kitap okudum",
+    "İngilizce": "I read a book while you weren't",
+    "Almanca": "Ich habe ein Buch gelesen, während du es nicht warst",
+    "Fransızca": "J'ai lu un livre alors que tu ne l'étais pas",
+    "İspanyolca": "Leí un libro mientras tú no estabas"
+  },
+  {
+    "Türkçe": "Kütüphanede okunacak birkaç kitap var",
+    "İngilizce": "There are a few books to read in the library",
+    "Almanca": "In der Bibliothek gibt es einige Bücher zu lesen",
+    "Fransızca": "Il y a quelques livres à lire dans la bibliothèque",
+    "İspanyolca": "Hay algunos libros para leer en la biblioteca"
+  },
+  {
+    "Türkçe": "Okuduğum kitaba biraz su bulaştı",
+    "İngilizce": "Some water got on the book I read",
+    "Almanca": "Etwas Wasser ist auf das Buch gelaufen, das ich gelesen habe",
+    "Fransızca": "De l'eau est tombée sur le livre que j'ai lu",
+    "İspanyolca": "Un poco de agua manchó el libro que leí"
+  },
+  {
+    "Türkçe": "Kutuda kitap var mı?",
+    "İngilizce": "Are there books in the box",
+    "Almanca": "Sind Bücher in der Kiste",
+    "Fransızca": "Y a-t-il des livres dans la boîte ? ",
+    "İspanyolca": "¿Hay libros en la caja?"
+  },
+  {
+    "Türkçe": "Kutuda kitap olup olmadığından emin değilim",
+    "İngilizce": "I am not sure if whether there is a book in the box",
+    "Almanca": "Ich bin mir nicht sicher, ob/ob ein Buch in der Schachtel ist. ",
+    "Fransızca": "Je ne sais pas s'il y a un livre dans la boîte.",
+    "İspanyolca": "No estoy seguro de si hay un libro en la caja."
+  },
+  {
+    "Türkçe": "Masada hiç kitap göremedim",
+    "İngilizce": "I didn't see any books on the table",
+    "Almanca": "Ich habe keine Bücher auf dem Tisch gesehen",
+    "Fransızca": "Je n'ai vu aucun livre sur la table",
+    "İspanyolca": "No vi ningún libro sobre la mesa"
+  },
+  {
+    "Türkçe": "Burada hiç kitap okumadım",
+    "İngilizce": "I haven't read any books here",
+    "Almanca": "Ich habe hier keine Bücher gelesen",
+    "Fransızca": "Je n'ai lu aucun livre ici",
+    "İspanyolca": "No he leído ningún libro aquí"
+  },
+  {
+    "Türkçe": "Kitabı hızlıca okuyun",
+    "İngilizce": "Read the book quickly",
+    "Almanca": "Lies das Buch schnell",
+    "Fransızca": "Lisez le livre rapidement",
+    "İspanyolca": "Lea el libro rápidamente"
+  },
+  {
+    "Türkçe": "Kütüphanenizdeki kitabı okuyacak mıyım?",
+    "İngilizce": "Will I read the book in your library",
+    "Almanca": "Werde ich das Buch in Ihrer Bibliothek lesen?",
+    "Fransızca": "Vais-je lire le livre dans votre bibliothèque ? ",
+    "İspanyolca": "¿Leeré el libro en tu biblioteca? "
+  },
+  {
+    "Türkçe": "Kitabı tekrar okuyacağım",
+    "İngilizce": "I will read the book again",
+    "Almanca": "Ich werde das Buch nochmal lesen.",
+    "Fransızca": "Je vais relire le livre",
+    "İspanyolca": "Volveré a leer el libro."
+  },
+  {
+    "Türkçe": "Aynı kitabı okuyacaksınız",
+    "İngilizce": "You will read the same book",
+    "Almanca": "Sie werden dasselbe Buch lesen",
+    "Fransızca": "Vous lirez le même livre",
+    "İspanyolca": "Leerás el mismo libro"
+  },
+  {
+    "Türkçe": "Bu kitap çok mu iyi?  O zaman okuyacağım",
+    "İngilizce": "Is this book very good? I will read then",
+    "Almanca": "Ist dieses Buch sehr gut? Ich werde dann lesen",
+    "Fransızca": "Ce livre est-il très bon ?  Je lirai alors",
+    "İspanyolca": "¿Es este libro muy bueno?  Lo leeré entonces"
+  },
+  {
+    "Türkçe": "Kitap okuyacağım",
+    "İngilizce": "I will read a book",
+    "Almanca": "Ich werde ein Buch lesen",
+    "Fransızca": "Je vais lire un livre",
+    "İspanyolca": "Leeré un libro"
+  },
+  {
+    "Türkçe": "Yarın ne zaman kitap okuyorsun?",
+    "İngilizce": "When are you reading a book tomorrow",
+    "Almanca": "Wann liest du morgen ein Buch? ",
+    "Fransızca": "Quand lis-tu un livre demain ? ",
+    "İspanyolca": "¿Cuándo leerás un libro mañana? "
+  },
+  {
+    "Türkçe": "Yarın bu saatlerde kitap okuyacağım",
+    "İngilizce": "I'm going to read a book by this time tomorrow",
+    "Almanca": "Ich werde morgen um diese Zeit ein Buch lesen",
+    "Fransızca": "Je vais lire un livre à cette heure demain",
+    "İspanyolca": "Mañana a esta hora voy a leer un libro"
+  },
+  {
+    "Türkçe": "Ödevimi yaptıktan sonra kitap okuyacağım",
+    "İngilizce": "I'll read a book after I've done my homework",
+    "Almanca": "Ich werde ein Buch lesen,wenn ich meine Hausaufgaben gemacht habe",
+    "Fransızca": "Je lirai un livre après avoir fait mes devoirs",
+    "İspanyolca": "Leeré un libro después de haber hecho mi tarea"
+  },
+  {
+    "Türkçe": "Kitap geldiğinde okumayı bitireceğim",
+    "İngilizce": "I will have finished reading the book when it arrives",
+    "Almanca": "Ich werde das Buch fertig gelesen haben, wenn es ankommt",
+    "Fransızca": "J'aurai fini de lire le livre quand il arrivera",
+    "İspanyolca": "Habré terminado de leer el libro cuando llegue"
+  },
+  {
+    "Türkçe": "O eve geldiğinde kitabın tamamını okumuş olacağım",
+    "İngilizce": "By the time he gets home, I'll have read the whole",
+    "Almanca": "Bis er nach Hause kommt, werde ich das ganze Buch gelesen haben",
+    "Fransızca": "Le temps qu'il rentre à la maison, j'aurai lu tout le livre",
+    "İspanyolca": "Cuando llegue a casa, habré leído el libro completo"
+  },
+  {
+    "Türkçe": "Bu akşam kitap okuyacaklar, planlarını tartışacaklar ve güzel vakit geçirecekler",
+    "İngilizce": "Tonight they will read a book, discuss their plans and have a good time",
+    "Almanca": "Heute Abend werden sie ein Buch lesen, ihre Pläne besprechen und eine gute Zeit haben",
+    "Fransızca": "Ce soir, ils liront un livre, discuteront de leurs projets et passeront un bon moment",
+    "İspanyolca": "Esta noche leerán un libro, discutirán sus planes y pasarán un buen rato"
+  },
+  {
+    "Türkçe": "Yarın sonuna kadar kitabı bir hafta boyunca okumuş olacağım",
+    "İngilizce": "By the end of tomorrow I will have read for the book for a week",
+    "Almanca": "Bis Ende morgen werde ich eine Woche lang für das Buch gelesen haben",
+    "Fransızca": "D’ici la fin de demain, j’aurai lu le livre pendant une semaine",
+    "İspanyolca": "Al final de mañana habré leído el libro durante una semana"
+  },
+  {
+    "Türkçe": "Bu öğleden sonra sen geldiğinde ben 3 saat boyunca kitap okumuş olacağım",
+    "İngilizce": "I will have read a book for 3 hours when you arrive this afternoon",
+    "Almanca": "Ich werde 3 Stunden lang ein Buch gelesen haben, wenn Sie heute Nachmittag ankommen",
+    "Fransızca": "J'aurai lu un livre pendant 3 heures à votre arrivée cet après-midi",
+    "İspanyolca": "Habré leído un libro durante 3 horas cuando llegues esta tarde"
+  },
+  {
+    "Türkçe": "Kitap tarafımdan okunmuştur",
+    "İngilizce": "The book was read by me",
+    "Almanca": "Das Buch wurde von mir gelesen",
+    "Fransızca": "Le livre a été lu par moi",
+    "İspanyolca": "El libro fue leído por mí"
+  },
+  {
+    "Türkçe": "Her gün kitap okuduğunu söyledi",
+    "İngilizce": "She said she reads books every day",
+    "Almanca": "Sie sagte, sie lese jeden Tag Bücher",
+    "Fransızca": "Elle a dit qu'elle lisait des livres tous les jours",
+    "İspanyolca": "Dijo que lee libros todos los días"
+  },
+  {
+    "Türkçe": "\"Yerinde olsam yeni bir kitap okurdum\" dedi",
+    "İngilizce": "\"If I were you, I would read a new book,\" he said. ",
+    "Almanca": "„Wenn ich du wäre, würde ich ein neues Buch lesen“, sagte er.”",
+    "Fransızca": "\"Si j'étais vous, je lirais un nouveau livre\", a-t-il déclaré",
+    "İspanyolca": "\"Si yo fuera usted, leería un libro nuevo\", dijo. "
+  },
+  {
+    "Türkçe": "\"Beni biraz okur musun?  \" Söyledim",
+    "İngilizce": "\"Would you read me a little bit?  \" I said",
+    "Almanca": "Würdest du mir ein bisschen vorlesen? \" Ich sagte",
+    "Fransızca": "« Veux-tu me lire un peu ?  \" J'ai dit",
+    "İspanyolca": "\"¿Me lees un poquito?  \" Yo dije"
+  },
+  {
+    "Türkçe": "Ondan bana bir şeyler okumasını istedim",
+    "İngilizce": "I asked him to read me something",
+    "Almanca": "Ich bat ihn, mir etwas vorzulesen",
+    "Fransızca": "Je lui ai demandé de me lire quelque chose",
+    "İspanyolca": "Le pedí que me leyera algo"
+  },
+  {
+    "Türkçe": "\"Kitabımı okumak ister misin?\" dedi",
+    "İngilizce": "She said, \"Would you like to read my book",
+    "Almanca": "Sie sagte: „Möchtest du zu meinem Buch vorlesen?“",
+    "Fransızca": "Sie sagte: „Möchtest du zu meinem Buch vorlesen?“ ",
+    "İspanyolca": "Ella dijo: \"¿Te gustaría leer mi libro?\" "
+  },
+  {
+    "Türkçe": "Okuduğumda kitabımı bitiriyorum",
+    "İngilizce": "When I read, I finish my book",
+    "Almanca": "Wenn ich lese, beende ich mein Buch",
+    "Fransızca": "Quand je lis, je termine mon livre",
+    "İspanyolca": "Cuando leo, termino mi libro"
+  },
+  {
+    "Türkçe": "Bu kitabı okusaydım yorum yapardım",
+    "İngilizce": "If I had read this book I would have commented",
+    "Almanca": "Wenn ich dieses Buch gelesen hätte, hätte ich kommentiert",
+    "Fransızca": "Si j'avais lu ce livre, j'aurais commenté",
+    "İspanyolca": "Si hubiera leído este libro lo habría comentado"
+  },
+  {
+    "Türkçe": "Eğer kitabı satın alsaydı mutlaka okurdu",
+    "İngilizce": "If she had bought the book, she would have read it",
+    "Almanca": "Wenn sie das Buch gekauft hätte, hätte sie es gelesen",
+    "Fransızca": "Si elle avait acheté le livre, elle l'aurait lu",
+    "İspanyolca": "Si hubiera comprado el libro, lo habría leído"
+  },
+  {
+    "Türkçe": "Eğer kitabı okumazsan, ben okuyacağım",
+    "İngilizce": "If you don't read the book, I will",
+    "Almanca": "Wenn Sie das Buch nicht lesen, werde ich es tun",
+    "Fransızca": "Si vous ne lisez pas le livre, je le ferai",
+    "İspanyolca": "Si no lees el libro, yo lo haré"
+  },
+  {
+    "Türkçe": "Kitabı elime ulaşınca okuyacağım",
+    "İngilizce": "When I get the book I will read it",
+    "Almanca": "Wenn ich das Buch bekomme, werde ich es lesen",
+    "Fransızca": "Quand j'aurai le livre, je le lirai",
+    "İspanyolca": "Cuando tenga el libro lo leeré"
+  },
+  {
+    "Türkçe": "Keşke daha çok kitap okusaydım",
+    "İngilizce": "I wish I read more books",
+    "Almanca": "Ich wünschte, ich lese mehr Bücher",
+    "Fransızca": "J'aimerais lire plus de livres",
+    "İspanyolca": "Ojalá leyera más libros"
+  },
+  {
+    "Türkçe": "Kitabı okumazsanız bilgi unutulur",
+    "İngilizce": "Knowledge is forgotten if you don't read the book",
+    "Almanca": "Wissen wird vergessen, wenn man das Buch nicht liest",
+    "Fransızca": "La connaissance est oubliée si vous ne lisez pas le livre",
+    "İspanyolca": "El conocimiento se olvida si no lees el libro"
+  },
+  {
+    "Türkçe": "Kitabı okuduğunuzu varsayalım, nasıl özetlersiniz",
+    "İngilizce": "Assuming you read the book, how would you summarize it",
+    "Almanca": "Angenommen, Sie lesen das Buch, wie würden Sie es zusammenfassen? ",
+    "Fransızca": "En supposant que vous lisiez le livre, comment le résumeriez-vous ? ",
+    "İspanyolca": "Suponiendo que hayas leído el libro, ¿cómo lo resumirías? "
+  },
+  {
+    "Türkçe": "Kitabı özetlerseniz okuyabilirsiniz",
+    "İngilizce": "You can read the book if you summarize it",
+    "Almanca": "Sie können das Buch lesen, wenn Sie es zusammenfassen",
+    "Fransızca": "Vous pouvez lire le livre si vous le résumez",
+    "İspanyolca": "Puedes leer el libro si lo resumes"
+  },
+  {
+    "Türkçe": "Sınıfta kitap okuyorsunuz",
+    "İngilizce": "You are reading a book in class",
+    "Almanca": "Sie lesen im Unterricht ein Buch",
+    "Fransızca": "Vous lisez un livre en classe",
+    "İspanyolca": "Estás leyendo un libro en clase"
+  },
+  {
+    "Türkçe": "Hayatımı kitap okuyarak kazanıyorum",
+    "İngilizce": "I make my living reading a book",
+    "Almanca": "Ich lebe davon, ein Buch zu lesen",
+    "Fransızca": "Ich lebe davon, ein Buch zu lesen",
+    "İspanyolca": "Me gano la vida leyendo un libro"
+  },
+  {
+    "Türkçe": "Kitap okuyan az sayıda insan var",
+    "İngilizce": "There are a few people who read books",
+    "Almanca": "Es gibt ein paar Leute, die Bücher lesen",
+    "Fransızca": "Es gibt ein paar Leute, die Bücher lesen",
+    "İspanyolca": "Hay algunas personas que leen libros"
+  },
+  {
+    "Türkçe": "Kitap okumak hayal gücünü geliştirir",
+    "İngilizce": "Reading books stimulates the imagination",
+    "Almanca": "Bücher lesen fördert die Vorstellungskraft",
+    "Fransızca": "Lire des livres stimule l'imagination",
+    "İspanyolca": "Leer libros estimula la imaginación"
+  },
+  {
+    "Türkçe": "Ders çalışmam lazım o yüzden kitap okuyorum",
+    "İngilizce": "I have to study, so I read books",
+    "Almanca": "Ich muss lernen, also lese ich Bücher",
+    "Fransızca": "Je dois étudier, alors je lis des livres",
+    "İspanyolca": "Tengo que estudiar, entonces leo libros"
+  },
+  {
+    "Türkçe": "Kitabı okudu ama hiçbir şey anlamadı",
+    "İngilizce": "He read the book but understood nothing",
+    "Almanca": "Er las das Buch, verstand aber nichts",
+    "Fransızca": "Il a lu le livre mais n'a rien compris",
+    "İspanyolca": "Leyó el libro pero no entendió nada"
+  },
+  {
+    "Türkçe": "Kitapları hızlı ve anlayarak okuyun",
+    "İngilizce": "Read books quickly and with understanding",
+    "Almanca": "Lesen Sie Bücher schnell und mit Verständnis",
+    "Fransızca": "Lisez des livres rapidement et avec compréhension",
+    "İspanyolca": "Leer libros rápidamente y con comprensión"
+  },
+  {
+    "Türkçe": "Kitap okumanın sıkıcı olacağını düşünüyordu ama okumaktan keyif alıyordu",
+    "İngilizce": "She thought reading a book would be boring, but she enjoyed reading it",
+    "Almanca": "Sie dachte, es wäre langweilig, ein Buch zu lesen, aber sie hatte Spaß beim Lesen",
+    "Fransızca": "Elle pensait que lire un livre serait ennuyeux, mais elle aimait le lire",
+    "İspanyolca": "Pensó que leer un libro sería aburrido, pero disfrutó leyéndolo"
+  },
+  {
+    "Türkçe": "Ben kimseye kitap okumak istemiyorum, kimsenin de bana kitap okumasını istemiyorum",
+    "İngilizce": "I don't want to read a book to anyone, and I don't want anyone to read a book to me either",
+    "Almanca": "Ich möchte niemandem ein Buch vorlesen, und ich möchte auch nicht, dass mir jemand ein Buch vorliest",
+    "Fransızca": "Je ne veux lire un livre à personne, et je ne veux pas non plus que quiconque me lise un livre",
+    "İspanyolca": "No quiero leerle un libro a nadie, y tampoco quiero que nadie me lea un libro a mí"
+  },
+  {
+    "Türkçe": "Kitabın tamamını okudum ve yoruldum",
+    "İngilizce": "I've read the whole book and I'm tired",
+    "Almanca": "Ich habe das ganze Buch gelesen und bin müde",
+    "Fransızca": "J'ai lu tout le livre et je suis fatigué",
+    "İspanyolca": "He leído todo el libro y estoy cansado"
+  },
+  {
+    "Türkçe": "Kitap çok kalın olduğu için okumanız biraz zaman alabilir",
+    "İngilizce": "The book is very thick, so it may take some time to read the book",
+    "Almanca": "Das Buch ist sehr dick, daher kann es einige Zeit dauern, das Buch zu lesen",
+    "Fransızca": "Le livre est très épais, sa lecture peut donc prendre un certain temps",
+    "İspanyolca": "El libro es muy grueso, por lo que puede llevar algún tiempo leerlo"
+  },
+  {
+    "Türkçe": "Kitap okuyorum, böylece anlayabiliyorum",
+    "İngilizce": "I'm reading a book, so I can understand it",
+    "Almanca": "Ich lese ein Buch, also kann ich es verstehen",
+    "Fransızca": "Je lis un livre pour pouvoir le comprendre",
+    "İspanyolca": "Estoy leyendo un libro para poder entenderlo"
+  },
+  {
+    "Türkçe": "Kitap okumaya hazırdım. Ancak kitap yoktu",
+    "İngilizce": "I was ready to read a book. However, there was no book",
+    "Almanca": "Ich war bereit, ein Buch zu lesen. Es gab jedoch kein Buch",
+    "Fransızca": "J'étais prêt à lire un livre.  Cependant, il n’y avait pas de livre",
+    "İspanyolca": "J'étais prêt à lire un livre.  Cependant, il n’y avait pas de livre"
+  },
+  {
+    "Türkçe": "Kitapları okumalısın yoksa hiçbir şey öğrenemezsin",
+    "İngilizce": "You have to read the books or you won't learn anything",
+    "Almanca": "Man muss die Bücher lesen, sonst lernt man nichts",
+    "Fransızca": "Vous devez lire les livres sinon vous n'apprendrez rien",
+    "İspanyolca": "Tienes que leer los libros o no aprenderás nada"
+  },
+  {
+    "Türkçe": "Okumak sadece bir hobi değil aynı zamanda eğitici bir aktivitedir",
+    "İngilizce": "Reading is not only a hobby, but also an educational activity",
+    "Almanca": "Lesen ist nicht nur ein Hobby, sondern auch eine lehrreiche Tätigkeit",
+    "Fransızca": "La lecture n’est pas seulement un passe-temps, mais aussi une activité éducative",
+    "İspanyolca": "La lectura no es sólo un hobby, sino también una actividad educativa"
+  },
+  {
+    "Türkçe": "Bu kalın kitabı okumak hem sabır hem de isteklilik gerektirir",
+    "İngilizce": "It takes both patience and willingness to read this thick book",
+    "Almanca": "Es braucht sowohl Geduld als auch Bereitschaft, dieses dicke Buch zu lesen",
+    "Fransızca": "Il faut à la fois de la patience et de la volonté pour lire ce livre épais",
+    "İspanyolca": "Se necesita paciencia y voluntad para leer este grueso libro"
+  },
+  {
+    "Türkçe": "Kitap okumak ya aydınlık bir ortam ya da okuma ışığı gerektirir",
+    "İngilizce": "Reading a book requires either a bright environment or a reading light",
+    "Almanca": "Das Lesen eines Buches erfordert entweder eine helle Umgebung oder ein Leselicht",
+    "Fransızca": "Lire un livre nécessite soit un environnement lumineux, soit une lampe de lecture",
+    "İspanyolca": "Leer un libro requiere un ambiente brillante o una luz de lectura"
+  },
+  {
+    "Türkçe": "Kitap okurken n kelimesinin altını çizmem veya parantez kullanmam",
+    "İngilizce": "When I read a book, I don't underline the words n or use parentheses",
+    "Almanca": "Wenn ich ein Buch lese, unterstreiche ich die Wörter n nicht oder mit Klammern",
+    "Fransızca": "Quand je lis un livre, je ne souligne pas les mots n et n'utilise pas de parenthèses",
+    "İspanyolca": "Cuando leo un libro, no subrayo las palabras n ni uso paréntesis"
+  },
+  {
+    "Türkçe": "Sıkıcı olsun ya da olmasın kitap okumayı seviyorum",
+    "İngilizce": "I like to read books, whether boring or not",
+    "Almanca": "Ich lese gerne Bücher, egal ob langweilig oder nicht",
+    "Fransızca": "J'aime lire des livres, qu'ils soient ennuyeux ou non",
+    "İspanyolca": "Me gusta leer libros, sean aburridos o no"
+  },
+  {
+    "Türkçe": "Kütüphanede tek başıma kitap okurken yanıma geldi",
+    "İngilizce": "When I was reading a book alone in the library, she came to me",
+    "Almanca": "Als ich allein in der Bibliothek ein Buch las, kam sie zu mir",
+    "Fransızca": "Alors que je lisais un livre seul dans la bibliothèque, elle est venue vers moi",
+    "İspanyolca": "Cuando estaba leyendo un libro solo en la biblioteca, ella vino a verme"
+  },
+  {
+    "Türkçe": "Tam kitap okumaya başladığım sırada gözlüğüm kırıldı",
+    "İngilizce": "Just as I was starting to read a book, my glasses broke",
+    "Almanca": "Gerade als ich anfing, ein Buch zu lesen, zerbrach meine Brille",
+    "Fransızca": "Alors que je commençais à lire un livre, mes lunettes se sont cassées",
+    "İspanyolca": "Justo cuando estaba empezando a leer un libro, se me rompieron las gafas"
+  },
+  {
+    "Türkçe": "Bir kitap okur",
+    "İngilizce": "He reads a book",
+    "Almanca": "Er liest ein Buch",
+    "Fransızca": "Il lit un livre.\nSi le livre n’est pas \n",
+    "İspanyolca": "El Lee un libro"
+  },
+  {
+    "Türkçe": "Kitap okunmazsa rafta kalır",
+    "İngilizce": "If the book is not read, it stays on the shelf",
+    "Almanca": "Wird das Buch nicht gelesen, bleibt es im Regal",
+    "Fransızca": "lu, il reste sur l’étagère",
+    "İspanyolca": "Si el libro no se lee se queda en el estante"
+  },
+  {
+    "Türkçe": "Ben kitap okumayı severim",
+    "İngilizce": "I like reading books",
+    "Almanca": "Ich lese gern Bücher",
+    "Fransızca": "J'aime lire des livres",
+    "İspanyolca": "Me gusta leer libros"
+  },
+  {
+    "Türkçe": "Kitap okumak iyidir",
+    "İngilizce": "Reading books is good",
+    "Almanca": "Bücher lesen ist gut",
+    "Fransızca": "Lire des livres, c’est bien",
+    "İspanyolca": "Leer libros es bueno"
+  },
+  {
+    "Türkçe": "Okunan kitapları iyi biliyorum",
+    "İngilizce": "I know well read books",
+    "Almanca": "Ich kenne gelesene Bücher gut",
+    "Fransızca": "Je sais bien lire des livres",
+    "İspanyolca": "Sé bien leer libros"
+  },
+  {
+    "Türkçe": "Okumak iyidir",
+    "İngilizce": "Reading is good",
+    "Almanca": "Lesen tut gut",
+    "Fransızca": "La lecture, c'est bien",
+    "İspanyolca": "Leer es bueno"
+  },
+  {
+    "Türkçe": "Kitapları hızla okur",
+    "İngilizce": "She reads books quickly",
+    "Almanca": "Sie liest Bücher schnell",
+    "Fransızca": "Elle lit les livres rapidement",
+    "İspanyolca": "Lee libros rápidamente"
+  },
+  {
+    "Türkçe": "Tanıdığım herkesten daha hızlı okuyor",
+    "İngilizce": "She reads faster than anyone I know",
+    "Almanca": "Sie liest schneller als alle anderen, die ich kenne",
+    "Fransızca": "Elle lit plus vite que quiconque que je connais",
+    "İspanyolca": "Lee más rápido que nadie que conozco"
+  },
+  {
+    "Türkçe": "Kitabı hızlıca okumalısınız",
+    "İngilizce": "You should read the book quickly",
+    "Almanca": "Du solltest das Buch schnell lesen",
+    "Fransızca": "Vous devriez lire le livre rapidement",
+    "İspanyolca": "Deberías leer el libro rápidamente"
+  },
+  {
+    "Türkçe": "Kitabını okudu",
+    "İngilizce": "He has read his book",
+    "Almanca": "Er hat sein Buch gelesen",
+    "Fransızca": "Il a lu son livre",
+    "İspanyolca": "Ha leído su libro"
+  },
+  {
+    "Türkçe": "Okudum",
+    "İngilizce": "I read",
+    "Almanca": "Ha leído su libro",
+    "Fransızca": "J'ai lu",
+    "İspanyolca": "Yo leo"
+  },
+  {
+    "Türkçe": "Kitabı okuması gerektiğine şaşırdım",
+    "İngilizce": "I was surprised that she should read the book",
+    "Almanca": "Ich war überrascht, dass sie das Buch lesen sollte",
+    "Fransızca": "J'ai été surpris qu'elle lise le livre",
+    "İspanyolca": "Me sorprendió que ella leyera el libro"
+  },
+  {
+    "Türkçe": "Dün gece okuduğum kitap çok güzeldi",
+    "İngilizce": "The book I read last night was good",
+    "Almanca": "Das Buch, das ich gestern Abend gelesen habe, war gut",
+    "Fransızca": "Le livre que j'ai lu hier soir était bon",
+    "İspanyolca": "El libro que leí anoche fue bueno"
+  },
+  {
+    "Türkçe": "Kitapları mümkün olan en kısa sürede okuyabilmek için erken geliyor",
+    "İngilizce": "He comes early so that he can read the books in the shortest possible time",
+    "Almanca": "Er kommt früh, damit er die Bücher in kürzester Zeit lesen kann",
+    "Fransızca": "Il vient tôt pour pouvoir lire les livres dans les plus brefs délais",
+    "İspanyolca": "Viene temprano para poder leer los libros en el menor tiempo posible"
+  },
+  {
+    "Türkçe": "Beni dinlesinler diye kitap okuyorum",
+    "İngilizce": "I read books so they will listen to me",
+    "Almanca": "Ich lese Bücher, damit sie mir zuhören",
+    "Fransızca": "Je lis des livres pour qu'ils m'écoutent",
+    "İspanyolca": "Leo libros para que me escuchen"
+  },
+  {
+    "Türkçe": "Arkadaşlarından daha hızlı kitap okuyor",
+    "İngilizce": "He reads a book as slowly as the others",
+    "Almanca": "Er las ein Buch schneller als seine Freunde",
+    "Fransızca": "Il lisait un livre plus vite que ses amis",
+    "İspanyolca": "Leyó un libro más rápido que sus amigos"
+  },
+  {
+    "Türkçe": "Ne kadar çok okursanız o kadar çok öğrenirsiniz",
+    "İngilizce": "The more you read, the more you learn",
+    "Almanca": "Er liest ein Buch so langsam wie die anderen",
+    "Fransızca": "Il lit un livre aussi lentement que les autres",
+    "İspanyolca": "Lee un libro tan lentamente como los demás"
+  },
+  {
+    "Türkçe": "Kitabı bulamadığım için okumadım",
+    "İngilizce": "I didn't read the book because I couldn't find it",
+    "Almanca": "Ich habe das Buch nicht gelesen, weil ich es nicht finden konnte",
+    "Fransızca": "Je n'ai pas lu le livre parce que je ne l'ai pas trouvé",
+    "İspanyolca": "No leí el libro porque no lo encontré"
+  },
+  {
+    "Türkçe": "Pek çok kitap okumuş gibi görünüyor",
+    "İngilizce": "She seems to have read many books",
+    "Almanca": "Sie scheint viele Bücher gelesen zu haben",
+    "Fransızca": "Elle semble avoir lu beaucoup de livres",
+    "İspanyolca": "Parece haber leído muchos libros"
+  },
+  {
+    "Türkçe": "Hangi kitabı okumak istediğine karar verdi",
+    "İngilizce": "She decided which book she wanted to read",
+    "Almanca": "Sie entschied, welches Buch sie lesen wollte",
+    "Fransızca": "Elle a décidé quel livre elle voulait lire",
+    "İspanyolca": "Ella decidió qué libro quería leer"
+  },
+  {
+    "Türkçe": "Bana kitabı okumamı söyledi",
+    "İngilizce": "He told me to read the book",
+    "Almanca": "Er sagte mir, ich solle das Buch lesen",
+    "Fransızca": "Il m'a dit de lire le livre",
+    "İspanyolca": "Me dijo que leyera el libro"
+  },
+  {
+    "Türkçe": "Kitap okumayı bırakamıyor",
+    "İngilizce": "He can't stop reading books",
+    "Almanca": "Er kann nicht aufhören, Bücher zu lesen",
+    "Fransızca": "Il ne peut pas arrêter de lire des livres",
+    "İspanyolca": "No puede dejar de leer libros"
+  },
+  {
+    "Türkçe": "Neden kitap okumayı denemiyorsun",
+    "İngilizce": "Why don't you try reading a book",
+    "Almanca": "Warum versuchst du nicht, ein Buch zu lesen? ",
+    "Fransızca": "Pourquoi n'essayes-tu pas de lire un livre ",
+    "İspanyolca": "¿Por qué no intentas leer un libro? "
+  },
+  {
+    "Türkçe": "Kitabı okumaya devam etti",
+    "İngilizce": "She continued reading the book",
+    "Almanca": "She continued reading the book",
+    "Fransızca": "Sie fuhr fort, das Buch zu lesen",
+    "İspanyolca": "Elle a continué à lire le livre"
+  },
+  {
+    "Türkçe": "Dün bu odada kitap okuduğumu hatırlıyorum",
+    "İngilizce": "I remember reading a book in this room yesterday",
+    "Almanca": "Ich erinnere mich, dass ich gestern in diesem Raum ein Buch gelesen habe",
+    "Fransızca": "Je me souviens avoir lu un livre dans cette pièce hier",
+    "İspanyolca": "Recuerdo haber leído un libro en esta sala ayer"
+  },
+  {
+    "Türkçe": "Bu kitabı okuduğumu unuttum",
+    "İngilizce": "I forgot I read this book",
+    "Almanca": "Ich habe vergessen, dass ich dieses Buch gelesen habe",
+    "Fransızca": "J'avais oublié que j'avais lu ce livre",
+    "İspanyolca": "Olvidé que leí este libro"
+  },
+  {
+    "Türkçe": "Bu kitabı okumadığıma pişmanım",
+    "İngilizce": "I regret not having read this book",
+    "Almanca": "Ich bereue, dieses Buch nicht gelesen zu haben",
+    "Fransızca": "Je regrette de ne pas avoir lu ce livre",
+    "İspanyolca": "Lamento no haber leído este libro"
+  },
+  {
+    "Türkçe": "Bir hafta içinde bana okuttu",
+    "İngilizce": "He made me read it in a week",
+    "Almanca": "Er ließ mich in einer Woche lesen",
+    "Fransızca": "Il m'a fait le lire en une semaine",
+    "İspanyolca": "Me hizo leerlo en una semana"
+  },
+  {
+    "Türkçe": "Bana kitap okuttu",
+    "İngilizce": "He got me to read a book",
+    "Almanca": "Er brachte \nmich dazu gebracht, ein Buch zu lesen\n",
+    "Fransızca": "Il m'a fait lire un livre",
+    "İspanyolca": "Me hizo leer un libro"
+  },
+  {
+    "Türkçe": "Bu kitabı okutun",
+    "İngilizce": "Have this book read",
+    "Almanca": "Lassen Sie dieses Buch lesen",
+    "Fransızca": "Faites lire ce livre",
+    "İspanyolca": "Haga leer este libro"
+  },
+  {
+    "Türkçe": "Kitabı okumama izin vermedi",
+    "İngilizce": "He didn't let me read the book",
+    "Almanca": "Lassen Sie dieses Buch lesen",
+    "Fransızca": "faites lire ce livre",
+    "İspanyolca": "No me dejó leer el libro"
+
+  },
+  {
+    "Türkçe": "Okuduğum bu kitap beynimi havaya uçurmaya çalışıyordu",
+    "İngilizce": "This book I was reading was trying to blow my brain up",
+    "Almanca": "Dieses Buch, das ich las, versuchte, mein Gehirn in die Luft zu sprengen",
+    "Fransızca": "Ce livre que je lisais essayait de me faire exploser le cerveau",
+    "İspanyolca": "Este libro que estaba leyendo intentaba hacerme estallar el cerebro"
+  },
+  {
+    "Türkçe": "Annem yine okuma kitabımla ilgili küçük meseleyi gündeme getirdi",
+    "İngilizce": "My mother brought up the little matter of my reading book again",
+    "Almanca": "Meine Mutter brachte die kleine Sache mit meinem Lesebuch wieder zur Sprache",
+    "Fransızca": "Ma mère a encore évoqué la petite question de mon livre de lecture",
+    "İspanyolca": "Mi madre volvió a sacar a relucir el pequeño asunto de mi libro de lectura"
+  },
+  {
+    "Türkçe": "Bu eski lamba kitap okurken kırılma eğilimindeydi",
+    "İngilizce": "This old lamp tended to break while reading a book",
+    "Almanca": "Mi madre volvió a sacar a relucir el pequeño asunto de mi libro de lectura",
+    "Fransızca": "Cette vieille lampe avait tendance à se ",
+    "İspanyolca": "Esta vieja lámpara solía "
+  },
+  {
+    "Türkçe": "Çocukları kitap okuyacak şekilde yetiştirmek günümüzde hiç de kolay değil",
+    "İngilizce": "Raising children to read books is not easy nowadays",
+    "Almanca": "Heutzutage ist es nicht einfach, Kinder zu erziehen, die Bücher lesen. ",
+    "Fransızca": "Élever des enfants à lire des livres n’est pas facile de nos jours",
+    "İspanyolca": "Educar a los niños para que lean libros no es fácil hoy en día"
+  },
+  {
+    "Türkçe": "Okuduğu kitaba bakıyor",
+    "İngilizce": "She looks in the book she is reading",
+    "Almanca": "Sie sieht in dem Buch nach, das sie liest",
+    "Fransızca": "Elle regarde dans le livre qu'elle lit",
+    "İspanyolca": "Ella mira el libro que está leyendo"
+  },
+  {
+    "Türkçe": "Bir kitabı okumak için kelimeleri anlamalısınız",
+    "İngilizce": "She looks in the book she is reading",
+    "Almanca": "Um ein Buch zu lesen, muss man die Wörter verstehen",
+    "Fransızca": "Pour lire un livre, il faut comprendre les mots",
+    "İspanyolca": "Para leer un libro hay que entender las palabras"
+  },
+  {
+    "Türkçe": "Bir kitabı okumak için kelimeleri anlamalısınız",
+    "İngilizce": "To read a book you have to understand the words",
+    "Almanca": "m ein Buch zu lesen, muss man die Wörter verstehen",
+    "Fransızca": "Pour lire un livre, il faut comprendre les mots",
+    "İspanyolca": "Para leer un libro hay que entender las palabras"
+  },
+  {
+    "Türkçe": "Odaya geldiğinde okuduğum kitaptan bahsediyordum",
+    "İngilizce": "I was talking about the book I was reading when she came into the room",
+    "Almanca": "Ich sprach über das Buch, das ich gerade las, als sie ins Zimmer kam",
+    "Fransızca": "Ich sprach über das Buch, das ich gerade las, als sie ins Zimmer kam",
+    "İspanyolca": "Estaba hablando del libro que estaba leyendo cuando ella entró en la habitación"
+  },
+  {
+    "Türkçe": "Kitap okuyordum ve aklıma bir fikir geldi",
+    "İngilizce": "I was reading a book and an idea came to me",
+    "Almanca": "Ich habe ein Buch gelesen und mir kam eine Idee",
+    "Fransızca": "Je lisais un livre et une idée m'est venue",
+    "İspanyolca": "Estaba leyendo un libro y se me ocurrió una idea"
+  },
+  {
+    "Türkçe": "Öğretmen öğrencilerden kitap okumalarını istedi",
+    "İngilizce": "The teacher asked students to read books",
+    "Almanca": "Der Lehrer forderte Schüler auf, die Bücher lesen",
+    "Fransızca": "Le professeur a demandé aux élèves de lire des livres",
+    "İspanyolca": "La maestra pidió a los estudiantes que leyeran libros"
+  },
+  {
+    "Türkçe": "Kitap okuyan arkadaşlarını ziyaret etmeye devam etti",
+    "İngilizce": "She continued to visit her friends who read books",
+    "Almanca": "Sie besuchte weiterhin ihre Freunde, die Bücher lasen",
+    "Fransızca": "Elle a continué à rendre visite à ses amis qui lisaient des livres",
+    "İspanyolca": "Continuó visitando a sus amigos que leían libros"
+  },
+  {
+    "Türkçe": "Okuduğum kitabın yarattığı hayal kırıklığını atlattım",
+    "İngilizce": "I got over the disappointment of the book I was reading",
+    "Almanca": "Ich habe die Enttäuschung über das Buch, das ich gerade las, überwunden",
+    "Fransızca": "J'ai surmonté la déception du livre que je lisais",
+    "İspanyolca": "Superé la decepción del libro que estaba leyendo"
+  },
+  {
+    "Türkçe": "Okuduğum kitabın üzerinden geçtim",
+    "İngilizce": "I went through the book I was reading",
+    "Almanca": "Ich ging das Buch durch, das ich gerade las",
+    "Fransızca": "J'ai parcouru le livre que je lisais",
+    "İspanyolca": "Revisé el libro que estaba leyendo"
+  },
+  {
+    "Türkçe": "Okumak için bir kitap alırdı. Henüz tüm parasını harcadı mı?",
+    "İngilizce": "He would buy a book to read.  Has he used up all his money yet",
+    "Almanca": "Er würde ein Buch kaufen, um es zu lesen. Hat er sein ganzes Geld schon aufgebraucht? ",
+    "Fransızca": "Il achèterait un livre à lire.  A-t-il déjà dépensé tout son argent ? ",
+    "İspanyolca": "Compraría un libro para leer.  ¿Ya ha agotado todo su dinero? "
+  },
+  {
+    "Türkçe": "Annem ben kitap okurken köpeğime bakacağına söz verdi",
+    "İngilizce": "My mother promised to take care of my dog while I read a book",
+    "Almanca": "Meine Mutter versprach, auf meinen Hund aufzupassen, während ich ein Buch las. ",
+    "Fransızca": "Ma mère a promis de prendre soin de mon chien pendant que je lisais un livre.",
+    "İspanyolca": "Mi madre prometió cuidar a mi perro mientras yo leía un libro. "
+  },
+  {
+    "Türkçe": "Okuduğu kitaptaki hataları inceleyecek",
+    "İngilizce": "She will examine the errors in the book she is reading",
+    "Almanca": "Sie wird die Fehler in dem Buch, das sie gerade liest, untersuchen. ",
+    "Fransızca": "Elle examinera les erreurs dans le livre qu'elle lit",
+    "İspanyolca": "Examinará los errores del libro que está leyendo"
+  },
+  {
+    "Türkçe": "Okuduğum kitabın yazarına rastladım",
+    "İngilizce": "I came across the author of the book I was reading",
+    "Almanca": "Ich stieß auf den Autor des Buches, das ich gerade las",
+    "Fransızca": "Je suis tombé sur l'auteur du livre que je lisais",
+    "İspanyolca": "Me encontré con el autor del libro que estaba leyendo"
+  },
+  {
+    "Türkçe": "Koridorda İngilizce profesörüyle karşılaştı ve okuduğu kitabı ona verdi",
+    "İngilizce": "She met her English professor in the hallway and handed her the book she was reading",
+    "Almanca": "Sie traf ihren Englischprofessor im Flur und reichte ihr das Buch, das sie gerade las",
+    "Fransızca": "Elle rencontra son professeur d'anglais dans le couloir et lui tendit le livre qu'elle lisait",
+    "İspanyolca": "Se encontró con su profesor de inglés en el pasillo y le entregó el libro que estaba leyendo"
+  },
+  {
+    "Türkçe": "Okuduğum kitaptaki ana karakteri taklit ediyor gibisin",
+    "İngilizce": "You seem to be emulating the main character in the book I'm reading",
+    "Almanca": "Du scheinst der Hauptfigur in dem Buch, das ich gerade lese, nachzueifern",
+    "Fransızca": "Vous semblez imiter le personnage principal du livre que je lis",
+    "İspanyolca": "Pareces estar emulando al personaje principal del libro que estoy leyendo. "
+  },
+  {
+    "Türkçe": "Kitap okurlarını bekliyor",
+    "İngilizce": "He is waiting for book readers",
+    "Almanca": "Er wartet auf Buchleser",
+    "Fransızca": "Il attend les lecteurs de livres",
+    "İspanyolca": "Está esperando lectores de libros"
+  },
+  {
+    "Türkçe": "Babam bazen beni bu kitabı okumaya zorluyor",
+    "İngilizce": "My father sometimes forces me to read this book",
+    "Almanca": "Mein Vater zwingt mich manchmal, dieses Buch zu lesen",
+    "Fransızca": "Mon père m'oblige parfois à lire ce livre",
+    "İspanyolca": "Mi padre a veces me obliga a leer este libro"
+  },
+  {
+    "Türkçe": "Kitap okumasına izin verdim",
+    "İngilizce": "I let her read a book",
+    "Almanca": "Ich ließ sie ein Buch lesen",
+    "Fransızca": "Je l'ai laissée lire un livre",
+    "İspanyolca": "La dejé leer un libro"
+  },
+
+  {
+    "Türkçe": "Çok kitap okursam gözlerim yorulur",
+    "İngilizce": "If I read too many books, my eyes get tired",
+    "Almanca": "Wenn ich zu viele Bücher lese, werden meine Augen müde",
+    "Fransızca": "Si je lis trop de livres, mes yeux se fatiguent",
+    "İspanyolca": "Si leo demasiados libros, mis ojos se cansan"
+  },
+  {
+    "Türkçe": "Çok fazla kitap okumak göz yorgunluğuna neden olur",
+    "İngilizce": "Reading too many books causes eyestrain",
+    "Almanca": "Das Lesen zu vieler Bücher führt zu einer Überanstrengung der Augen",
+    "Fransızca": "Lire trop de livres provoque une fatigue oculaire",
+    "İspanyolca": "Leer demasiados libros provoca fatiga visual. "
+  },
+  {
+    "Türkçe": "Kitap okumamak cehalete yol açar",
+    "İngilizce": "Not reading books leads to ignorance",
+    "Almanca": "Bücher nicht zu lesen führt zu Unwissenheit",
+    "Fransızca": "Ne pas lire de livres mène à l’ignorance",
+    "İspanyolca": "No leer libros conduce a la ignorancia"
+  },
+  {
+    "Türkçe": "Ödevimi bitirdikten sonra dışarı çıkacağım",
+    "İngilizce": "I will go out after I finish my homework",
+    "Almanca": "Ich gehe raus, nachdem ich meine Hausaufgaben erledigt habe.“",
+    "Fransızca": "Je sortirai après avoir fini mes devoirs.",
+    "İspanyolca": "\"Saldré después de terminar mi tarea\". "
+  },
+  {
+    "Türkçe": "Yatmadan önce dişlerini fırçaladığından emin ol",
+    "İngilizce": "“Make sure he brushes his teeth before going to bed",
+    "Almanca": "„Stellen Sie sicher, dass er sich die Zähne putzt, bevor er zu Bett geht.“ ",
+    "Fransızca": "\"Assurez-vous qu'il se brosse les dents avant de se coucher.\" ",
+    "İspanyolca": "\"Asegúrate de que se cepille los dientes antes de acostarse\". "
+  },
+  {
+    "Türkçe": "Sen oraya vardığında ben gitmiş olacağım",
+    "İngilizce": "I’ll be gone by the time you get there",
+    "Almanca": "„Wenn du dort ankommst, werde ich schon weg sein.“ ",
+    "Fransızca": "\"Je serai parti quand tu arriveras.\"  ",
+    "İspanyolca": "\"Me habré ido cuando llegues allí\". "
+  },
+  {
+    "Türkçe": "Hatalı olduğunu kabul edene kadar sana yardım etmeyeceğim",
+    "İngilizce": "I will not help you until/till you admit you were wrong.",
+    "Almanca": "„Ich werde Ihnen nicht helfen, bis Sie zugeben, dass Sie sich geirrt haben.“ ",
+    "Fransızca": "\"Je ne t'aiderai pas tant que tu n'auras pas admis que tu avais tort.\" ",
+    "İspanyolca": "“No te ayudaré hasta que admitas que estabas equivocado”.  "
+  },
+  {
+    "Türkçe": "Sabah bana verdiğinden beri bu bulmacayı çözmeye çalışıyorum",
+    "İngilizce": "I’ve been trying to solve this puzzle since you gave me in the morning",
+    "Almanca": "„Ich habe versucht, dieses Rätsel zu lösen, seit du es mir morgens gegeben hast.“ ",
+    "Fransızca": "\"J'essaie de résoudre cette énigme depuis que tu me l'as donné ce matin.\" ",
+    "İspanyolca": "\"He estado tratando de resolver este rompecabezas desde que me lo diste por la mañana\".  "
+  },
+  {
+    "Türkçe": "Sen burada olduğun sürece iyi olacağım",
+    "İngilizce": "I’ll be fine as long as you’re here",
+    "Almanca": "„Mir geht es gut, solange du hier bist.“ ",
+    "Fransızca": "\"Je vais bien tant que tu es là.\" ",
+    "İspanyolca": "\"Estaré bien mientras estés aquí\". "
+  },
+  {
+    "Türkçe": "Sen ders çalışırken sana bir şeyler pişireyim",
+    "İngilizce": "Let me cook something for you while you study",
+    "Almanca": "„Lass mich etwas für dich kochen, während du lernst.“ ",
+    "Fransızca": "  \"Laisse-moi te cuisiner quelque chose pendant que tu étudies.\" ",
+    "İspanyolca": "“Déjame cocinarte algo mientras estudias”. "
+  },
+  {
+    "Türkçe": "Küçüklüğünden beri bisikletine büyük bir keyifle biniyor",
+    "İngilizce": "She’s riding her bike with great pleasure as she was as little",
+    "Almanca": "  „Sie fährt mit großer Freude Fahrrad, als sie noch klein war.“  ",
+    "Fransızca": "\"Elle fait du vélo avec beaucoup de plaisir car elle était toute petite.\" ",
+    "İspanyolca": "“Ella anda en bicicleta con mucho gusto desde que era pequeña”.  "
+  },
+  {
+    "Türkçe": "Sen eve geldiğinde hazır olacağım",
+    "İngilizce": "I’ll be ready when you’re home",
+    "Almanca": "„Ich werde bereit sein, wenn du zu Hause bist.“ ",
+    "Fransızca": "\"Je serai prêt quand tu seras à la maison.\" ",
+    "İspanyolca": "\"Estaré listo cuando estés en casa\". "
+  },
+  {
+    "Türkçe": "Ne zaman bir hediye alsa çok heyecanlanıyor",
+    "İngilizce": "He gets very excited whenever he receives a present",
+    "Almanca": "„Er ist ganz aufgeregt, wenn er ein Geschenk bekommt.“ ",
+    "Fransızca": "\"Il est très excité chaque fois qu'il reçoit un cadeau.\" ",
+    "İspanyolca": "\"Se emociona mucho cada vez que recibe un regalo\".  "
+  },
+  {
+    "Türkçe": "Herkes teslim ettiğinde çarşaflarınızı işaretleyeceğim",
+    "İngilizce": "I will mark your sheets once everybody submits",
+    "Almanca": "„Ich werde Ihre Blätter benoten, sobald alle eingereicht haben.“  ",
+    "Fransızca": "\"Je marquerai vos feuilles une fois que tout le monde aura soumis.\"  ",
+    "İspanyolca": "\"Marcaré sus hojas una vez que todos las envíen\". "
+  },
+  {
+    "Türkçe": "Teklif alır almaz sizi bilgilendireceğim",
+    "İngilizce": "I will inform you as soon as I receive the offer",
+    "Almanca": "„Ich werde Sie informieren, sobald ich das Angebot erhalten habe.“  ",
+    "Fransızca": "\"Je vous informerai dès que je recevrai l'offre.\" ",
+    "İspanyolca": "\"Les informaré tan pronto como reciba la oferta\". "
+  },
+  {
+    "Türkçe": "Geçen yaz seni gördüğüm anda ne kadar eğlendiğimizi hatırlıyorum",
+    "İngilizce": "I remember how much we had fun last summer immediately I see you",
+    "Almanca": "„Ich erinnere mich sofort daran, wie viel Spaß wir letzten Sommer hatten, wenn ich dich sehe.“ ",
+    "Fransızca": "\"Je me souviens à quel point nous nous sommes amusés l'été dernier dès que je te vois.\" ",
+    "İspanyolca": "\"Recuerdo lo mucho que nos divertimos el verano pasado en cuanto te veo\". "
+  },
+  {
+    "Türkçe": "Tanıştığımız anda çok iyi arkadaş olacağımızı biliyorduk",
+    "İngilizce": "We knew we were gonna be best friends the moment we met",
+    "Almanca": "„Wir wussten von dem Moment an, als wir uns trafen, dass wir beste Freunde sein würden.“ ",
+    "Fransızca": "  \"Nous savions que nous allions être les meilleurs amis dès notre rencontre.\" ",
+    "İspanyolca": " \"Sabíamos que íbamos a ser mejores amigos en el momento en que nos conocimos\". "
+  },
+  {
+    "Türkçe": "Ödevini bitirdiğine göre artık video oyunları oynayabilirsin",
+    "İngilizce": "You can play video games now that you finished your homework",
+    "Almanca": "„Jetzt, nachdem Sie Ihre Hausaufgaben erledigt haben, können Sie Videospiele spielen.“ ",
+    "Fransızca": "« Vous pouvez jouer à des jeux vidéo maintenant que vous avez terminé vos devoirs. » ",
+    "İspanyolca": "\"Puedes jugar videojuegos ahora que terminaste tu tarea\". "
+  },
+  {
+    "Türkçe": "Herkesin akşam yemeği yediği yerde oyun oynamamalısın",
+    "İngilizce": "You shouldn’t be playing games where everybody’s having dinner",
+    "Almanca": "„Man sollte keine Spiele spielen, bei denen alle zu Abend essen.“ ",
+    "Fransızca": "\"Vous ne devriez pas jouer à des jeux où tout le monde dîne.\" ",
+    "İspanyolca": "\"No deberías jugar a juegos en los que todos estén cenando\".  "
+  },
+  {
+    "Türkçe": "Nereye gidersen git yanında olacağım",
+    "İngilizce": "I’ll be with you wherever you go",
+    "Almanca": "„Ich werde bei dir sein, wohin du auch gehst",
+    "Fransızca": "\"Je serai avec toi partout où tu iras.\" ",
+    "İspanyolca": "“Estaré contigo dondequiera que vayas”. "
+  },
+  {
+    "Türkçe": "Yardımına ihtiyaç duymam durumunda seyahatim sırasında bana eşlik edecek",
+    "İngilizce": "She will accompany me during my travel in case I need her help",
+    "Almanca": "„Sie wird mich während meiner Reise begleiten, falls ich ihre Hilfe brauche.“  ",
+    "Fransızca": "\"Elle m'accompagnera pendant mon voyage au cas où j'aurais besoin de son aide.\"",
+    "İspanyolca": "“Ella me acompañará durante mi viaje en caso de que necesite su ayuda”. "
+  },
+  {
+    "Türkçe": "Patronuyla sanki yakın arkadaşıymış gibi şakalaşıyordu",
+    "İngilizce": "He joked around with his boss as if he was his close friend",
+    "Almanca": "„Er scherzte mit seinem Chef, als wäre er sein enger Freund.“  ",
+    "Fransızca": "\"Il plaisantait avec son patron comme s'il était son ami proche.\"  ",
+    "İspanyolca": " \"Bromeaba con su jefe como si fuera su amigo cercano\". "
+  },
+  {
+    "Türkçe": "Davranış şekliniz çevrenizi nasıl algıladığınızla ilgilidir",
+    "İngilizce": "The way you act is about how you perceive your surroundings",
+    "Almanca": "„Die Art und Weise, wie Sie handeln, hängt davon ab, wie Sie Ihre Umgebung wahrnehmen.“ ",
+    "Fransızca": "\"La façon dont vous agissez dépend de la façon dont vous percevez votre environnement.\" ",
+    "İspanyolca": "\"La forma en que actúas depende de cómo percibes tu entorno\". "
+  },
+  {
+    "Türkçe": "Grupta hiç yakın arkadaşı olmadığı için bizimle sinemaya gelmeyecek",
+    "İngilizce": "She won’t be coming to the movies with us because she doesn’t have any close friends in the group",
+    "Almanca": "  „Sie wird nicht mit uns ins Kino gehen, weil sie keine engen Freunde in der Gruppe hat.“  ",
+    "Fransızca": "\"Elle ne viendra pas au cinéma avec nous car elle n'a pas d'amis proches dans le groupe.\" ",
+    "İspanyolca": "\"Ella no vendrá al cine con nosotros porque no tiene amigos cercanos en el grupo\".  "
+  },
+  {
+    "Türkçe": "Mel enerji doluydu, arkadaşları ise çok yorgundu",
+    "İngilizce": "Mel was full of energy whereas her friends were very tired",
+    "Almanca": "„Mel war voller Energie, während ihre Freunde sehr müde waren.“ ",
+    "Fransızca": "\"Mel était pleine d'énergie alors que ses amies étaient très fatiguées.\" ",
+    "İspanyolca": "\"Mel estaba llena de energía mientras que sus amigos estaban muy cansados\". "
+  },
+  {
+    "Türkçe": "Çocukların eğitimlerine etkili bir şekilde yardımcı olduklarını görünce bu kuruma bağış yapacağım",
+    "İngilizce": "I will make a donation to this institution seeing that they effectively help kids with their education",
+    "Almanca": "„Ich werde dieser Einrichtung eine Spende zukommen lassen, damit sie den Kindern wirksam bei ihrer Bildung hilft.“ ",
+    "Fransızca": " \"Je ferai un don à cette institution car elle aide efficacement les enfants dans leur éducation.\" ",
+    "İspanyolca": "“Haré una donación a esta institución para ver que ayudan efectivamente a los niños con su educación”. "
+  },
+  {
+    "Türkçe": "Bu evi istediğin gibi tasarlayabilirsin",
+    "İngilizce": "You can desing this home however you want to",
+    "Almanca": "„Sie können dieses Haus so gestalten, wie Sie möchten.“ ",
+    "Fransızca": "Vous pouvez concevoir cette maison comme vous le souhaitez.\" ",
+    "İspanyolca": "\"Puedes diseñar esta casa como quieras\". "
+  },
+  {
+    "Türkçe": "Kendimi çok hasta hissetmeme rağmen buraya seni görmeye geldim",
+    "İngilizce": "“I came here to see you although I am feeling very sick",
+    "Almanca": "„Ich bin hergekommen, um dich zu sehen, obwohl ich mich sehr krank fühle.“ ",
+    "Fransızca": "\"Je suis venu ici pour vous voir même si je me sens très malade.\" ",
+    "İspanyolca": "\"Vine aquí para verte aunque me siento muy mal\".  "
+  },
+  {
+    "Türkçe": "Yeterli tecrübeye sahip olmanıza rağmen bu atölyeye kayıt olmanız mümkün değildir",
+    "İngilizce": "It is not possible to enroll to this workshop even though you have enough experience",
+    "Almanca": "„Eine Anmeldung zu diesem Workshop ist trotz ausreichender Erfahrung nicht möglich.“ ",
+    "Fransızca": "\"Il n'est pas possible de s'inscrire à cet atelier même si vous avez suffisamment d'expérience.\" ",
+    "İspanyolca": "“No es posible inscribirse a este taller aunque tengas suficiente experiencia”. "
+  },
+  {
+    "Türkçe": "Sonucu ne olursa olsun hayalimin peşinden koşacağım",
+    "İngilizce": "I will pursue my dream no matter what the consequence will be",
+    "Almanca": "„Ich werde meinen Traum verfolgen, egal welche Konsequenzen das haben wird.“ ",
+    "Fransızca": "\"Je poursuivrai mon rêve, quelles qu'en soient les conséquences.\" ",
+    "İspanyolca": "\"Perseguiré mi sueño sin importar las consecuencias\".  "
+  },
+  {
+    "Türkçe": "Hanım.  Sınavdan iyi bir sonuç alırsam Robinson beni bilim projesine atamayı düşünebilir",
+    "İngilizce": "Ms. Robinson can consider to assign me on the science project if I’ll have a good result from the exam",
+    "Almanca": " \"MS.  Robinson kann darüber nachdenken, mich für das naturwissenschaftliche Projekt einzusetzen, wenn ich bei der Prüfung ein gutes Ergebnis erziele.“ ",
+    "Fransızca": "\"MS.  Robinson peut envisager de m'affecter au projet scientifique si j'obtiens un bon résultat à l'examen. ",
+    "İspanyolca": "\"EM.  Robinson puede considerar asignarme al proyecto de ciencias si obtengo un buen resultado en el examen”. "
+  },
+  {
+    "Türkçe": "Yarın spor salonuna gitmeyi başarabilirsem bir parça kek yiyeceğim",
+    "İngilizce": "I will have a piece of cake only if I can manage to go to the gym tomorrow",
+    "Almanca": "„Ein Stück Kuchen bekomme ich nur, wenn ich es schaffe, morgen ins Fitnessstudio zu gehen.“ ",
+    "Fransızca": "\"Je n'aurai une part de gâteau que si j'arrive à aller à la salle de sport demain.\"  ",
+    "İspanyolca": "“Sólo tendré un pedazo de pastel si puedo ir al gimnasio mañana”.  "
+  },
+  {
+    "Türkçe": "Kimse benimle gelmese bile bu gece sinemaya gideceğim",
+    "İngilizce": "I will go to the cinema tonight even if nobody will come with me",
+    "Almanca": "„Ich werde heute Abend ins Kino gehen, auch wenn niemand mitkommt.“ ",
+    "Fransızca": "\"J'irai au cinéma ce soir même si personne ne viendra avec moi.\" ",
+    "İspanyolca": "\"Iré al cine esta noche aunque nadie venga conmigo\".  "
+  },
+  {
+    "Türkçe": "Sadece onun rahat etmesi için böyle bir düzenleme yapamayız",
+    "İngilizce": "We can not make such arrangement only to make him comfortable",
+    "Almanca": "  „Wir können eine solche Vereinbarung nicht nur treffen, um es ihm bequem zu machen.“",
+    "Fransızca": "\"Nous ne pouvons pas prendre un tel arrangement uniquement pour le mettre à l'aise.\"",
+    "İspanyolca": "\"No podemos hacer ese arreglo sólo para que se sienta cómodo\"."
+  }
+
+]
